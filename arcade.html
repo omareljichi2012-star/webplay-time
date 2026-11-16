@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebPlay Time | Retro Arcade & Vault</title>
+    <meta name="description" content="Play classic retro and Flash games in your browser with WebPlay Time." />
+    <meta property="og:title" content="WebPlay Time Arcade" />
+    <meta property="og:description" content="Play classic retro and Flash games in your browser with WebPlay Time." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+    
+    <!-- Cross-Origin Isolation & SharedArrayBuffer Enabler -->
+    <script src="/coi-serviceworker.js"></script>
+    
+    <!-- Environment & Emscripten Polyfills -->
+    <script>
+      (function() {
+        window.onerror = function(message, source, lineno, colno, error) {
+          if (!message || message === 'Script error.' || String(message).includes('Script error') || (source && (source.includes('emulatorjs') || source.includes('ruffle')))) {
+            return true;
+          }
+          return false;
+        };
+
+        window.addEventListener('error', function(event) {
+          if (!event) return;
+          const msg = String(event.message || event.error || '');
+          if (
+            !msg ||
+            msg === 'Script error.' ||
+            msg.includes('Script error') ||
+            msg.includes('WakeLock') ||
+            msg.includes('permissions policy') ||
+            msg.includes('ResizeObserver') ||
+            msg.includes('Load failed')
+          ) {
+            try {
+              event.stopImmediatePropagation();
+              event.preventDefault();
+            } catch (e) {}
+            return true;
+          }
+        }, true);
+
+        window.addEventListener('unhandledrejection', function(event) {
+          if (!event) return;
+          const reason = String(event.reason || '');
+          if (
+            !reason ||
+            reason.includes('Script error') ||
+            reason.includes('WakeLock') ||
+            reason.includes('permissions policy') ||
+            reason.includes('ResizeObserver') ||
+            reason.includes('NotAllowedError') ||
+            reason.includes('AbortError')
+          ) {
+            try {
+              event.stopImmediatePropagation();
+              event.preventDefault();
+            } catch (e) {}
+            return true;
+          }
+        }, true);
+
+        const mockSentinel = {
+          released: false,
+          type: 'screen',
+          addEventListener: function() {},
+          removeEventListener: function() {},
+          release: function() { return Promise.resolve(); },
+          onrelease: null,
+        };
+
+        if (typeof navigator !== 'undefined') {
+          try {
+            if ('wakeLock' in navigator && navigator.wakeLock) {
+              const originalRequest = navigator.wakeLock.request ? navigator.wakeLock.request.bind(navigator.wakeLock) : null;
+              navigator.wakeLock.request = async function(type) {
+                try {
+                  if (originalRequest) {
+                    return await originalRequest(type);
+                  }
+                } catch (e) {
+                  return mockSentinel;
+                }
+                return mockSentinel;
+              };
+            } else {
+              Object.defineProperty(navigator, 'wakeLock', {
+                value: { request: function() { return Promise.resolve(mockSentinel); } },
+                configurable: true,
+                writable: true,
+              });
+            }
+          } catch (_) {
+            try {
+              Object.defineProperty(navigator, 'wakeLock', {
+                value: { request: function() { return Promise.resolve(mockSentinel); } },
+                configurable: true,
+                writable: true,
+              });
+            } catch (__) {}
+          }
+        }
+      })();
+    </script>
+
+    <!-- Ruffle Flash Emulator Configuration -->
+    <script>
+      window.RufflePlayer = window.RufflePlayer || {};
+      window.RufflePlayer.config = {
+        publicPath: "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.7.1/",
+        polyfillStyle: "none",
+        autoplay: "on",
+        unmuteOverlay: "hidden",
+        letterbox: "on",
+        warnOnUnsupportedContent: false
+      };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.7.1/ruffle.js" crossorigin="anonymous"></script>
+  </head>
+  <body class="bg-neutral-950 text-neutral-100 antialiased selection:bg-rose-500 selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

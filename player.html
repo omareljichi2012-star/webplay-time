@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WSMR Player | Dedicated WebAssembly Engine Page</title>
+    
+    <!-- Cross-Origin Isolation & SharedArrayBuffer Enabler -->
+    <script src="/coi-serviceworker.js"></script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body, html {
+            width: 100%;
+            height: 100%;
+            background-color: #0b0b0f;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #ffffff;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            user-select: none;
+        }
+
+        /* Top Navigation Bar */
+        .top-navbar {
+            height: 50px;
+            background-color: #14141a;
+            border-bottom: 1px solid #252530;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+            z-index: 100;
+            flex-shrink: 0;
+        }
+
+        /* Pulsing Status Indicator */
+        .status-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff;
+            letter-spacing: 0.3px;
+        }
+
+        .pulse-dot {
+            width: 10px;
+            height: 10px;
+            background-color: #00e676;
+            border-radius: 50%;
+            box-shadow: 0 0 0 rgba(0, 230, 118, 0.7);
+            animation: pulse-animation 1.8s infinite;
+        }
+
+        @keyframes pulse-animation {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(0, 230, 118, 0.7);
+            }
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 8px rgba(0, 230, 118, 0);
+            }
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(0, 230, 118, 0);
+            }
+        }
+
+        /* Functional Exit Button */
+        .exit-button {
+            background-color: #ff5252;
+            color: #ffffff;
+            border: none;
+            padding: 8px 16px;
+            font-weight: 800;
+            font-size: 12px;
+            letter-spacing: 0.5px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.2s ease, transform 0.1s ease;
+            box-shadow: 0 2px 8px rgba(255, 82, 82, 0.3);
+        }
+
+        .exit-button:hover {
+            background-color: #ff1744;
+            transform: translateY(-1px);
+        }
+
+        .exit-button:active {
+            transform: translateY(0);
+        }
+
+        /* Embedded Game Container */
+        .game-viewport {
+            flex: 1;
+            width: 100%;
+            height: calc(100% - 50px);
+            position: relative;
+            background-color: #000000;
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            outline: none;
+            display: block;
+        }
+
+        /* Floating Helper Prompt Overlay */
+        .helper-prompt {
+            position: absolute;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(11, 11, 15, 0.88);
+            color: #00e676;
+            padding: 10px 22px;
+            border-radius: 30px;
+            font-size: 13px;
+            font-weight: 700;
+            border: 1px solid rgba(0, 230, 118, 0.6);
+            pointer-events: none;
+            transition: opacity 0.4s ease, visibility 0.4s ease;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+            z-index: 10;
+        }
+
+        .helper-prompt.hidden {
+            opacity: 0;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body onclick="captureGameFocus(event)">
+
+    <!-- Top Navigation Header -->
+    <header class="top-navbar">
+        <div class="status-container">
+            <span class="pulse-dot"></span>
+            <span>WSMR Player Active • GTA V FiveM Web Port</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 10px;">
+            <a href="https://v2.fiveplay.lol/launcher.html" target="_blank" rel="noopener noreferrer" style="background: linear-gradient(135deg, #7c3aed, #9333ea); color: #ffffff; text-decoration: none; padding: 7px 14px; font-weight: 800; font-size: 11px; letter-spacing: 0.5px; border-radius: 6px; display: inline-flex; align-items: center; gap: 5px; box-shadow: 0 2px 8px rgba(124, 58, 237, 0.4); transition: transform 0.1s ease;">
+                ↗ DIRECT LAUNCHER TAB
+            </a>
+            <button class="exit-button" onclick="closeAndReturn(event)">[ X ] CLOSE & RETURN</button>
+        </div>
+    </header>
+
+    <!-- Embedded Game Viewport -->
+    <main class="game-viewport">
+        <iframe 
+            id="wsmrGameFrame"
+            src="https://v2.fiveplay.lol/launcher.html"
+            allow="autoplay; fullscreen; pointer-lock; touchscreen; cross-origin-isolated; keyboard-map; screen-wake-lock"
+            allowfullscreen
+            credentialless="true">
+        </iframe>
+
+        <!-- Floating Guidance Prompt -->
+        <div class="helper-prompt" id="helperPrompt">
+            Click anywhere on screen to activate game controls
+        </div>
+    </main>
+
+    <script>
+        // CONFIGURATION: Set your Website 1 URL here
+        const WEBSITE_1_URL = "/"; // Snap-back route to Main Hub (Website 1)
+
+        /**
+         * Global Click Handler: Captures focus & pointer lock for mouse-look, touchscreen,
+         * and keyboard controls inside the WebAssembly game engine.
+         */
+        function captureGameFocus(event) {
+            const frame = document.getElementById('wsmrGameFrame');
+            const prompt = document.getElementById('helperPrompt');
+
+            // Hide the helper overlay upon first interaction
+            if (prompt) {
+                prompt.classList.add('hidden');
+            }
+
+            // Instantly focus the game iframe
+            if (frame) {
+                try {
+                    frame.focus();
+                    if (frame.requestPointerLock) {
+                        frame.requestPointerLock();
+                    }
+                } catch (e) {
+                    // Handled gracefully if browser security blocks pointer lock request
+                }
+            }
+        }
+
+        /**
+         * Exit Handler: Instantly snaps the user back to Website 1 without keeping session clutter.
+         * Stops propagation to avoid triggering the global body focus event.
+         */
+        function closeAndReturn(event) {
+            if (event) {
+                event.stopPropagation(); // Prevents click from bubbling to body focus handler
+            }
+            window.location.replace(WEBSITE_1_URL);
+        }
+    </script>
+
+</body>
+</html>

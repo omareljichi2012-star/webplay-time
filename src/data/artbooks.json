@@ -1,0 +1,80 @@
+[
+  {
+    "id": "artbook-zelda-hyrule-historia",
+    "title": "The Legend of Zelda: Hyrule Historia",
+    "author": "Eiji Aonuma, Shigeru Miyamoto",
+    "publisher": "Dark Horse Books / Nintendo",
+    "releaseYear": 2013,
+    "pages": 276,
+    "genre": "Concept Art & Lore Encyclopedia",
+    "description": "Comprehensive historical chronology, concept artwork, character models, and design documents covering 25 years of The Legend of Zelda franchise.",
+    "coverUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+    "viewUrl": "https://archive.org/embed/the-legend-of-zelda-hyrule-historia",
+    "downloadUrl": "https://archive.org/download/the-legend-of-zelda-hyrule-historia/The%20Legend%20of%20Zelda%20Hyrule%20Historia.pdf"
+  },
+  {
+    "id": "artbook-metal-gear-solid-shinkawa",
+    "title": "The Art of Metal Gear Solid I-IV",
+    "author": "Yoji Shinkawa",
+    "publisher": "Konami / Dark Horse Books",
+    "releaseYear": 2018,
+    "pages": 800,
+    "genre": "Ink & Character Concept Art",
+    "description": "The iconic sumi-e ink brush artwork, mechanical concept designs, cyborg ninja illustrations, and tactical gear sketches by lead artist Yoji Shinkawa.",
+    "coverUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=600&q=80",
+    "viewUrl": "https://archive.org/embed/the-art-of-metal-gear-solid",
+    "downloadUrl": "https://archive.org/download/the-art-of-metal-gear-solid/The%20Art%20of%20Metal%20Gear%20Solid.pdf"
+  },
+  {
+    "id": "artbook-final-fantasy-amano-dawn",
+    "title": "The Sky: The Art of Final Fantasy",
+    "author": "Yoshitaka Amano",
+    "publisher": "Dark Horse Manga / Square Enix",
+    "releaseYear": 2012,
+    "pages": 640,
+    "genre": "Fantasy Fine Art & Logo Design",
+    "description": "Ethereal watercolor paintings, character concept portraits, and monumental beast designs created by master artist Yoshitaka Amano across classic Final Fantasy titles.",
+    "coverUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
+    "viewUrl": "https://archive.org/embed/the-sky-art-of-final-fantasy",
+    "downloadUrl": "https://archive.org/download/the-sky-art-of-final-fantasy/The%20Sky%20Art%20of%20Final%20Fantasy.pdf"
+  },
+  {
+    "id": "artbook-castlevania-kojima",
+    "title": "Castlevania: Santa Lilio Sangre",
+    "author": "Ayami Kojima",
+    "publisher": "Asuka Shinsha / Konami",
+    "releaseYear": 2010,
+    "pages": 200,
+    "genre": "Gothic Baroque & Dark Fantasy Art",
+    "description": "Breathtaking oil, pastel, and pencil illustrations by Ayami Kojima for Symphony of the Night, Aria of Sorrow, Harmony of Dissonance, and Lament of Innocence.",
+    "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+    "viewUrl": "https://archive.org/embed/castlevania-santa-lilio-sangre",
+    "downloadUrl": "https://archive.org/download/castlevania-santa-lilio-sangre/Santa_Lilio_Sangre_Ayami_Kojima.pdf"
+  },
+  {
+    "id": "artbook-street-fighter-tribute",
+    "title": "Street Fighter Tribute & World Warrior Works",
+    "author": "UDON Crew, Akiman, Bengus",
+    "publisher": "UDON Entertainment / Capcom",
+    "releaseYear": 2015,
+    "pages": 320,
+    "genre": "Fighting Game Illustrations",
+    "description": "Over three decades of dynamic fighting portraits, tournament key visuals, and production sprites honoring the legendary world warriors.",
+    "coverUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=600&q=80",
+    "viewUrl": "https://archive.org/embed/street-fighter-tribute",
+    "downloadUrl": "https://archive.org/download/street-fighter-tribute/Street%20Fighter%20Tribute.pdf"
+  },
+  {
+    "id": "artbook-persona-shigenori-soejima",
+    "title": "Shigenori Soejima & P-Studio Art Unit Work",
+    "author": "Shigenori Soejima",
+    "publisher": "Kadokawa / Enterbrain / Atlus",
+    "releaseYear": 2019,
+    "pages": 208,
+    "genre": "Anime Stylized Character Art",
+    "description": "Vibrant pop-art character sketches, UI element concept sheets, and promotional portraits for Persona 3, Persona 4, Persona 5, and Catherine.",
+    "coverUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=600&q=80",
+    "viewUrl": "https://archive.org/embed/shigenori-soejima-art-works",
+    "downloadUrl": "https://archive.org/download/shigenori-soejima-art-works/Shigenori%20Soejima%20Art%20Works.pdf"
+  }
+]

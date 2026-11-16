@@ -1,0 +1,4704 @@
+[
+  {
+    "id": "batcave-6975",
+    "newsId": 6975,
+    "title": "Invincible (2003)",
+    "year": 2003,
+    "publisher": "Image Comics",
+    "status": "Completed",
+    "rating": 4.4,
+    "votes": 3268,
+    "authors": [
+      "Robert Kirkman"
+    ],
+    "artists": [
+      "Cory Walker",
+      "Ryan Ottley"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Superhero"
+    ],
+    "synopsis": "In Metropolitan City, Mark Grayson navigates the dual pressures of high school and his newfound abilities. His father, Omni-Man, is the world's most powerful hero, a legacy that now falls to Mark as he learns to control his own strength. The routine of classes and social anxieties is constantly interrupted by threats from the city's supervillains. Each confrontation tests his limits, forcing him to balance the chaos of adolescence with the immense responsibility of his powers. The skyline is a frequent backdrop for his clumsy, high-velocity learning curve.",
+    "poster": "/comics/invincible-2003/poster-hd.webp",
+    "remotePoster": "https://batcave.biz/uploads/posts/hd/6975.webp",
+    "sourceUrl": "https://batcave.biz/6975-invincible-2003.html",
+    "totalChapters": 170,
+    "defaultChapterId": 237903,
+    "characters": [
+      {
+        "name": "Allen",
+        "url": "https://batcave.biz/character/27184-allen/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27184.webp"
+      },
+      {
+        "name": "Angstrom Levy",
+        "url": "https://batcave.biz/character/27285-angstrom-levy/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27285.webp"
+      },
+      {
+        "name": "Anissa",
+        "url": "https://batcave.biz/character/31403-anissa/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/31403.webp"
+      },
+      {
+        "name": "Atom Eve",
+        "url": "https://batcave.biz/character/27183-atom-eve/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27183.webp"
+      },
+      {
+        "name": "Battle Beast",
+        "url": "https://batcave.biz/character/27245-battle-beast/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27245.webp"
+      },
+      {
+        "name": "Black Samson",
+        "url": "https://batcave.biz/character/27248-black-samson/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27248.webp"
+      },
+      {
+        "name": "Cecil Stedman",
+        "url": "https://batcave.biz/character/27988-cecil-stedman/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27988.webp"
+      },
+      {
+        "name": "Conquest",
+        "url": "https://batcave.biz/character/40887-conquest-61561/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/40887.webp"
+      },
+      {
+        "name": "Darkwing",
+        "url": "https://batcave.biz/character/139542-darkwing-167637/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/139542.webp"
+      },
+      {
+        "name": "Darkwing (Night Boy)",
+        "url": "https://batcave.biz/character/27251-darkwing-night-boy/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27251.webp"
+      },
+      {
+        "name": "Deborah Grayson",
+        "url": "https://batcave.biz/character/27263-deborah-grayson/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27263.webp"
+      },
+      {
+        "name": "Dupli-Kate",
+        "url": "https://batcave.biz/character/27253-dupli-kate/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27253.webp"
+      },
+      {
+        "name": "General Kregg",
+        "url": "https://batcave.biz/character/36273-general-kregg/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/36273.webp"
+      },
+      {
+        "name": "Grand Regent Thragg",
+        "url": "https://batcave.biz/character/50955-grand-regent-thragg/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/50955.webp"
+      },
+      {
+        "name": "Invincible",
+        "url": "https://batcave.biz/character/2827-invincible/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/2827.webp"
+      },
+      {
+        "name": "Kid Invincible",
+        "url": "https://batcave.biz/character/119892-kid-invincible/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/119892.webp"
+      },
+      {
+        "name": "Madman",
+        "url": "https://batcave.biz/character/3911-madman/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/3911.webp"
+      },
+      {
+        "name": "Mauler Twins",
+        "url": "https://batcave.biz/character/27284-mauler-twins/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27284.webp"
+      },
+      {
+        "name": "Monster Girl",
+        "url": "https://batcave.biz/character/27264-monster-girl/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27264.webp"
+      },
+      {
+        "name": "Oliver Grayson",
+        "url": "https://batcave.biz/character/31709-oliver-grayson/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/31709.webp"
+      },
+      {
+        "name": "Omni-Man",
+        "url": "https://batcave.biz/character/26995-omni-man/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/26995.webp"
+      },
+      {
+        "name": "Onaan",
+        "url": "https://batcave.biz/character/114488-onaan/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/114488.webp"
+      },
+      {
+        "name": "Powerplex",
+        "url": "https://batcave.biz/character/39710-powerplex/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/39710.webp"
+      },
+      {
+        "name": "Rex-Splode",
+        "url": "https://batcave.biz/character/27254-rex-splode/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27254.webp"
+      },
+      {
+        "name": "Robot",
+        "url": "https://batcave.biz/character/27267-robot/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27267.webp"
+      },
+      {
+        "name": "Spawn",
+        "url": "https://batcave.biz/character/1486-spawn/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/1486.webp"
+      },
+      {
+        "name": "Tech Jacket",
+        "url": "https://batcave.biz/character/32073-tech-jacket/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/32073.webp"
+      },
+      {
+        "name": "Terra Grayson",
+        "url": "https://batcave.biz/character/91155-terra-grayson/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/91155.webp"
+      },
+      {
+        "name": "The Immortal",
+        "url": "https://batcave.biz/character/27256-the-immortal/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/27256.webp"
+      },
+      {
+        "name": "Ursaal",
+        "url": "https://batcave.biz/character/105453-ursaal/",
+        "thumb": "https://batcave.biz/uploads/characters/thumb/105453.webp"
+      }
+    ],
+    "relatedComics": [
+      {
+        "id": "batcave-33051",
+        "newsId": 33051,
+        "title": "Absolute Batman (2024-)",
+        "poster": "https://batcave.biz/uploads/posts/2025-12/cover_250x350.jpg",
+        "status": "Ongoing",
+        "year": 2024,
+        "url": "https://batcave.biz/33051-absolute-batman-2024.html"
+      },
+      {
+        "id": "batcave-33086",
+        "newsId": 33086,
+        "title": "Absolute Superman (2024-)",
+        "poster": "https://batcave.biz/uploads/posts/poster/bf/33086-absolute-superman-2024.jpg",
+        "status": "Ongoing",
+        "year": 2024,
+        "url": "https://batcave.biz/33086-absolute-superman-2024.html"
+      },
+      {
+        "id": "batcave-32394",
+        "newsId": 32394,
+        "title": "Ultimate Spider-Man (2024-2026)",
+        "poster": "https://batcave.biz/uploads/posts/2025-12/cover_250x350-1.jpg",
+        "status": "Completed",
+        "year": 2024,
+        "url": "https://batcave.biz/32394-ultimate-spider-man-2024.html"
+      },
+      {
+        "id": "batcave-33524",
+        "newsId": 33524,
+        "title": "Invincible Universe: Battle Beast (2025-)",
+        "poster": "https://batcave.biz/uploads/posts/poster/1e/33524-invincible-universe-battle-beast-2025.jpg",
+        "status": "Ongoing",
+        "year": 2025,
+        "url": "https://batcave.biz/33524-invincible-universe-battle-beast-2025.html"
+      },
+      {
+        "id": "batcave-16696",
+        "newsId": 16696,
+        "title": "Transformers (2023-) (Skybound)",
+        "poster": "https://batcave.biz/uploads/posts/poster/4c/16696-transformers-2023.jpg",
+        "status": "Ongoing",
+        "year": 2023,
+        "url": "https://batcave.biz/16696-transformers-2023.html"
+      },
+      {
+        "id": "batcave-27180",
+        "newsId": 27180,
+        "title": "Tech Jacket (2002-2003)",
+        "poster": "https://batcave.biz/uploads/posts/poster/4b/27180-tech-jacket-2002-2003.jpg",
+        "status": "Completed",
+        "year": 2002,
+        "url": "https://batcave.biz/27180-tech-jacket-2002-2003.html"
+      },
+      {
+        "id": "batcave-27181",
+        "newsId": 27181,
+        "title": "Tech Jacket (2014-2015)",
+        "poster": "https://batcave.biz/uploads/posts/poster/b8/27181-tech-jacket-2014-2015.jpg",
+        "status": "Completed",
+        "year": 2014,
+        "url": "https://batcave.biz/27181-tech-jacket-2014-2015.html"
+      },
+      {
+        "id": "batcave-6980",
+        "newsId": 6980,
+        "title": "Invincible Returns",
+        "poster": "https://batcave.biz/uploads/posts/poster/16/6980-invincible-returns.jpg",
+        "status": "Completed",
+        "year": 2010,
+        "url": "https://batcave.biz/6980-invincible-returns.html"
+      },
+      {
+        "id": "batcave-5629",
+        "newsId": 5629,
+        "title": "The Boys (2006-2012)",
+        "poster": "https://batcave.biz/uploads/posts/poster/32/5629-the-boys-2006-2012-uaf6087f9.jpg",
+        "status": "Completed",
+        "year": 2006,
+        "url": "https://batcave.biz/5629-the-boys-2006-2012.html"
+      },
+      {
+        "id": "batcave-33091",
+        "newsId": 33091,
+        "title": "Absolute Wonder Woman (2024-)",
+        "poster": "https://batcave.biz/uploads/posts/poster/e0/33091-absolute-wonder-woman-2024.jpg",
+        "status": "Ongoing",
+        "year": 2024,
+        "url": "https://batcave.biz/33091-absolute-wonder-woman-2024.html"
+      },
+      {
+        "id": "batcave-33390",
+        "newsId": 33390,
+        "title": "Absolute Flash (2025-)",
+        "poster": "https://batcave.biz/uploads/posts/poster/c1/33390-absolute-flash-2025.jpg",
+        "status": "Ongoing",
+        "year": 2025,
+        "url": "https://batcave.biz/33390-absolute-flash-2025.html"
+      },
+      {
+        "id": "batcave-30392",
+        "newsId": 30392,
+        "title": "Ultimate Spider-Man (2000-2011)",
+        "poster": "https://batcave.biz/uploads/posts/poster/a5/30392-ultimate-spider-man-2000-2011.jpg",
+        "status": "Completed",
+        "year": 2000,
+        "url": "https://batcave.biz/30392-ultimate-spider-man-2000-2011.html"
+      },
+      {
+        "id": "batcave-33412",
+        "newsId": 33412,
+        "title": "Absolute Martian Manhunter (2025-2026)",
+        "poster": "https://batcave.biz/uploads/posts/poster/9f/33412-absolute-martian-manhunter-2025.jpg",
+        "status": "Completed",
+        "year": 2025,
+        "url": "https://batcave.biz/33412-absolute-martian-manhunter-2025.html"
+      },
+      {
+        "id": "batcave-6112",
+        "newsId": 6112,
+        "title": "The Walking Dead (2003-2019)",
+        "poster": "https://batcave.biz/uploads/posts/poster/7b/6112-the-walking-dead-2003.jpg",
+        "status": "Completed",
+        "year": 2003,
+        "url": "https://batcave.biz/6112-the-walking-dead-2003.html"
+      }
+    ],
+    "chapters": [
+      {
+        "id": 238046,
+        "title": "Invincible (2003) Issue #144",
+        "readerUrl": "https://batcave.biz/reader/6975/238046",
+        "pageCount": 55,
+        "date": "15.02.2018",
+        "posi": 170,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238046.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238045,
+        "title": "Invincible (2003) Issue #143",
+        "readerUrl": "https://batcave.biz/reader/6975/238045",
+        "pageCount": 23,
+        "date": "22.12.2017",
+        "posi": 169,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238045.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238044,
+        "title": "Invincible (2003) Issue #142",
+        "readerUrl": "https://batcave.biz/reader/6975/238044",
+        "pageCount": 37,
+        "date": "16.11.2017",
+        "posi": 168,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238044.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238043,
+        "title": "Invincible (2003) Issue #141",
+        "readerUrl": "https://batcave.biz/reader/6975/238043",
+        "pageCount": 22,
+        "date": "19.10.2017",
+        "posi": 167,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238043.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238042,
+        "title": "Invincible (2003) Issue #140",
+        "readerUrl": "https://batcave.biz/reader/6975/238042",
+        "pageCount": 23,
+        "date": "22.09.2017",
+        "posi": 166,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238042.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238041,
+        "title": "Invincible (2003) Issue #139",
+        "readerUrl": "https://batcave.biz/reader/6975/238041",
+        "pageCount": 25,
+        "date": "18.08.2017",
+        "posi": 165,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238041.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238040,
+        "title": "Invincible (2003) Issue #138",
+        "readerUrl": "https://batcave.biz/reader/6975/238040",
+        "pageCount": 23,
+        "date": "21.07.2017",
+        "posi": 164,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238040.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238039,
+        "title": "Invincible (2003) Issue #137",
+        "readerUrl": "https://batcave.biz/reader/6975/238039",
+        "pageCount": 24,
+        "date": "22.06.2017",
+        "posi": 163,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238039.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238038,
+        "title": "Invincible (2003) Issue #136",
+        "readerUrl": "https://batcave.biz/reader/6975/238038",
+        "pageCount": 22,
+        "date": "18.05.2017",
+        "posi": 162,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238038.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238037,
+        "title": "Invincible (2003) Issue #135",
+        "readerUrl": "https://batcave.biz/reader/6975/238037",
+        "pageCount": 23,
+        "date": "20.04.2017",
+        "posi": 161,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238037.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238036,
+        "title": "Invincible (2003) Issue #134",
+        "readerUrl": "https://batcave.biz/reader/6975/238036",
+        "pageCount": 25,
+        "date": "16.03.2017",
+        "posi": 160,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238036.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238035,
+        "title": "Invincible (2003) Issue #133",
+        "readerUrl": "https://batcave.biz/reader/6975/238035",
+        "pageCount": 25,
+        "date": "16.02.2017",
+        "posi": 159,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238035.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238034,
+        "title": "Invincible (2003) Issue #132",
+        "readerUrl": "https://batcave.biz/reader/6975/238034",
+        "pageCount": 24,
+        "date": "2.02.2017",
+        "posi": 158,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238034.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238033,
+        "title": "Invincible (2003) Issue #131",
+        "readerUrl": "https://batcave.biz/reader/6975/238033",
+        "pageCount": 25,
+        "date": "17.11.2016",
+        "posi": 157,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238033.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238032,
+        "title": "Invincible (2003) Issue #130",
+        "readerUrl": "https://batcave.biz/reader/6975/238032",
+        "pageCount": 24,
+        "date": "25.08.2016",
+        "posi": 156,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238032.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238031,
+        "title": "Invincible (2003) Issue #129",
+        "readerUrl": "https://batcave.biz/reader/6975/238031",
+        "pageCount": 24,
+        "date": "16.06.2016",
+        "posi": 155,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238031.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238030,
+        "title": "Invincible (2003) Issue #128",
+        "readerUrl": "https://batcave.biz/reader/6975/238030",
+        "pageCount": 24,
+        "date": "19.05.2016",
+        "posi": 154,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238030.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238029,
+        "title": "Invincible (2003) Issue #127",
+        "readerUrl": "https://batcave.biz/reader/6975/238029",
+        "pageCount": 25,
+        "date": "21.04.2016",
+        "posi": 153,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238029.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238028,
+        "title": "Invincible (2003) Issue #126",
+        "readerUrl": "https://batcave.biz/reader/6975/238028",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 152,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238028.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238027,
+        "title": "Invincible (2003) Issue #125",
+        "readerUrl": "https://batcave.biz/reader/6975/238027",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 151,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238027.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238026,
+        "title": "Invincible (2003) Issue #124",
+        "readerUrl": "https://batcave.biz/reader/6975/238026",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 150,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238026.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238025,
+        "title": "Invincible (2003) Issue #123",
+        "readerUrl": "https://batcave.biz/reader/6975/238025",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 149,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238025.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238024,
+        "title": "Invincible (2003) Issue #122",
+        "readerUrl": "https://batcave.biz/reader/6975/238024",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 148,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238024.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238023,
+        "title": "Invincible (2003) Issue #121",
+        "readerUrl": "https://batcave.biz/reader/6975/238023",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 147,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238023.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238022,
+        "title": "Invincible (2003) Issue #120",
+        "readerUrl": "https://batcave.biz/reader/6975/238022",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 146,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238022.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238021,
+        "title": "Invincible (2003) Issue #119",
+        "readerUrl": "https://batcave.biz/reader/6975/238021",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 145,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238021.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238020,
+        "title": "Invincible (2003) Issue #118",
+        "readerUrl": "https://batcave.biz/reader/6975/238020",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 144,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238020.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238019,
+        "title": "Invincible (2003) Issue #117",
+        "readerUrl": "https://batcave.biz/reader/6975/238019",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 143,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238019.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238018,
+        "title": "Invincible (2003) Issue #116",
+        "readerUrl": "https://batcave.biz/reader/6975/238018",
+        "pageCount": 30,
+        "date": "26.03.2016",
+        "posi": 142,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238018.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238017,
+        "title": "Invincible (2003) Issue #115",
+        "readerUrl": "https://batcave.biz/reader/6975/238017",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 141,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238017.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238016,
+        "title": "Invincible (2003) Issue #114",
+        "readerUrl": "https://batcave.biz/reader/6975/238016",
+        "pageCount": 32,
+        "date": "26.03.2016",
+        "posi": 140,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238016.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238015,
+        "title": "Invincible (2003) Issue #113",
+        "readerUrl": "https://batcave.biz/reader/6975/238015",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 139,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238015.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238014,
+        "title": "Invincible (2003) Issue #112",
+        "readerUrl": "https://batcave.biz/reader/6975/238014",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 138,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238014.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238013,
+        "title": "Invincible (2003) Issue #111",
+        "readerUrl": "https://batcave.biz/reader/6975/238013",
+        "pageCount": 32,
+        "date": "26.03.2016",
+        "posi": 137,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238013.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238012,
+        "title": "Invincible (2003) Issue #110",
+        "readerUrl": "https://batcave.biz/reader/6975/238012",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 136,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238012.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238011,
+        "title": "Invincible (2003) Issue #109",
+        "readerUrl": "https://batcave.biz/reader/6975/238011",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 135,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238011.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238010,
+        "title": "Invincible (2003) Issue #108",
+        "readerUrl": "https://batcave.biz/reader/6975/238010",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 134,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238010.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238009,
+        "title": "Invincible (2003) Issue #107",
+        "readerUrl": "https://batcave.biz/reader/6975/238009",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 133,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238009.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238008,
+        "title": "Invincible (2003) Issue #106",
+        "readerUrl": "https://batcave.biz/reader/6975/238008",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 132,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238008.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238007,
+        "title": "Invincible (2003) Issue #105",
+        "readerUrl": "https://batcave.biz/reader/6975/238007",
+        "pageCount": 30,
+        "date": "26.03.2016",
+        "posi": 131,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238007.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238006,
+        "title": "Invincible (2003) Issue #104",
+        "readerUrl": "https://batcave.biz/reader/6975/238006",
+        "pageCount": 32,
+        "date": "26.03.2016",
+        "posi": 130,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238006.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238005,
+        "title": "Invincible (2003) Issue #103",
+        "readerUrl": "https://batcave.biz/reader/6975/238005",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 129,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238005.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238004,
+        "title": "Invincible (2003) Issue #102",
+        "readerUrl": "https://batcave.biz/reader/6975/238004",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 128,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238004.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238003,
+        "title": "Invincible (2003) Issue #101",
+        "readerUrl": "https://batcave.biz/reader/6975/238003",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 127,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238003.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238002,
+        "title": "Invincible (2003) Issue #100",
+        "readerUrl": "https://batcave.biz/reader/6975/238002",
+        "pageCount": 36,
+        "date": "26.03.2016",
+        "posi": 126,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238002.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238001,
+        "title": "Invincible (2003) Issue #99",
+        "readerUrl": "https://batcave.biz/reader/6975/238001",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 125,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238001.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 238000,
+        "title": "Invincible (2003) Issue #98",
+        "readerUrl": "https://batcave.biz/reader/6975/238000",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 124,
+        "thumb": "https://batcave.biz/uploads/chthumbs/238/238000.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237999,
+        "title": "Invincible (2003) Issue #97",
+        "readerUrl": "https://batcave.biz/reader/6975/237999",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 123,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237999.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237998,
+        "title": "Invincible (2003) Issue #96",
+        "readerUrl": "https://batcave.biz/reader/6975/237998",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 122,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237998.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237997,
+        "title": "Invincible (2003) Issue #95",
+        "readerUrl": "https://batcave.biz/reader/6975/237997",
+        "pageCount": 32,
+        "date": "26.03.2016",
+        "posi": 121,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237997.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237996,
+        "title": "Invincible (2003) Issue #94",
+        "readerUrl": "https://batcave.biz/reader/6975/237996",
+        "pageCount": 30,
+        "date": "26.03.2016",
+        "posi": 120,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237996.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237995,
+        "title": "Invincible (2003) Issue #93",
+        "readerUrl": "https://batcave.biz/reader/6975/237995",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 119,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237995.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237994,
+        "title": "Invincible (2003) Issue #92",
+        "readerUrl": "https://batcave.biz/reader/6975/237994",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 118,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237994.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237993,
+        "title": "Invincible (2003) Issue #91",
+        "readerUrl": "https://batcave.biz/reader/6975/237993",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 117,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237993.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237992,
+        "title": "Invincible (2003) Issue #90",
+        "readerUrl": "https://batcave.biz/reader/6975/237992",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 116,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237992.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237991,
+        "title": "Invincible (2003) Issue #89",
+        "readerUrl": "https://batcave.biz/reader/6975/237991",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 115,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237991.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237990,
+        "title": "Invincible (2003) Issue #88",
+        "readerUrl": "https://batcave.biz/reader/6975/237990",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 114,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237990.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237989,
+        "title": "Invincible (2003) Issue #87",
+        "readerUrl": "https://batcave.biz/reader/6975/237989",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 113,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237989.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237988,
+        "title": "Invincible (2003) Issue #86",
+        "readerUrl": "https://batcave.biz/reader/6975/237988",
+        "pageCount": 26,
+        "date": "26.03.2016",
+        "posi": 112,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237988.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237987,
+        "title": "Invincible (2003) Issue #85",
+        "readerUrl": "https://batcave.biz/reader/6975/237987",
+        "pageCount": 26,
+        "date": "26.03.2016",
+        "posi": 111,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237987.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237986,
+        "title": "Invincible (2003) Issue #84",
+        "readerUrl": "https://batcave.biz/reader/6975/237986",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 110,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237986.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237985,
+        "title": "Invincible (2003) Issue #83",
+        "readerUrl": "https://batcave.biz/reader/6975/237985",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 109,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237985.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237984,
+        "title": "Invincible (2003) Issue #82",
+        "readerUrl": "https://batcave.biz/reader/6975/237984",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 108,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237984.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237983,
+        "title": "Invincible (2003) Issue #81",
+        "readerUrl": "https://batcave.biz/reader/6975/237983",
+        "pageCount": 28,
+        "date": "26.03.2016",
+        "posi": 107,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237983.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237982,
+        "title": "Invincible (2003) Issue #80",
+        "readerUrl": "https://batcave.biz/reader/6975/237982",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 106,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237982.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237981,
+        "title": "Invincible (2003) Issue #79",
+        "readerUrl": "https://batcave.biz/reader/6975/237981",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 105,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237981.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237980,
+        "title": "Invincible (2003) Issue #78",
+        "readerUrl": "https://batcave.biz/reader/6975/237980",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 104,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237980.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237979,
+        "title": "Invincible (2003) Issue #77",
+        "readerUrl": "https://batcave.biz/reader/6975/237979",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 103,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237979.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237978,
+        "title": "Invincible (2003) Issue #76",
+        "readerUrl": "https://batcave.biz/reader/6975/237978",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 102,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237978.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237977,
+        "title": "Invincible (2003) Issue #75",
+        "readerUrl": "https://batcave.biz/reader/6975/237977",
+        "pageCount": 47,
+        "date": "26.03.2016",
+        "posi": 101,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237977.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237976,
+        "title": "Invincible (2003) Issue #74",
+        "readerUrl": "https://batcave.biz/reader/6975/237976",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 100,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237976.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237975,
+        "title": "Invincible (2003) Issue #73",
+        "readerUrl": "https://batcave.biz/reader/6975/237975",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 99,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237975.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237974,
+        "title": "Invincible (2003) Issue #72",
+        "readerUrl": "https://batcave.biz/reader/6975/237974",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 98,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237974.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237973,
+        "title": "Invincible (2003) Issue #71",
+        "readerUrl": "https://batcave.biz/reader/6975/237973",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 97,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237973.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237972,
+        "title": "Invincible (2003) Issue #70",
+        "readerUrl": "https://batcave.biz/reader/6975/237972",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 96,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237972.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237971,
+        "title": "Invincible (2003) Issue #69",
+        "readerUrl": "https://batcave.biz/reader/6975/237971",
+        "pageCount": 20,
+        "date": "26.03.2016",
+        "posi": 95,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237971.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237970,
+        "title": "Invincible (2003) Issue #68",
+        "readerUrl": "https://batcave.biz/reader/6975/237970",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 94,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237970.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237969,
+        "title": "Invincible (2003) Issue #67",
+        "readerUrl": "https://batcave.biz/reader/6975/237969",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 93,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237969.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237968,
+        "title": "Invincible (2003) Issue #66",
+        "readerUrl": "https://batcave.biz/reader/6975/237968",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 92,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237968.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237967,
+        "title": "Invincible (2003) Issue #65",
+        "readerUrl": "https://batcave.biz/reader/6975/237967",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 91,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237967.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237966,
+        "title": "Invincible (2003) Issue #64",
+        "readerUrl": "https://batcave.biz/reader/6975/237966",
+        "pageCount": 19,
+        "date": "26.03.2016",
+        "posi": 90,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237966.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237965,
+        "title": "Invincible (2003) Issue #63",
+        "readerUrl": "https://batcave.biz/reader/6975/237965",
+        "pageCount": 19,
+        "date": "26.03.2016",
+        "posi": 89,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237965.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237964,
+        "title": "Invincible (2003) Issue #62",
+        "readerUrl": "https://batcave.biz/reader/6975/237964",
+        "pageCount": 19,
+        "date": "26.03.2016",
+        "posi": 88,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237964.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237963,
+        "title": "Invincible (2003) Issue #61",
+        "readerUrl": "https://batcave.biz/reader/6975/237963",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 87,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237963.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237962,
+        "title": "Invincible (2003) Issue #60",
+        "readerUrl": "https://batcave.biz/reader/6975/237962",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 86,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237962.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237961,
+        "title": "Invincible (2003) Issue #59",
+        "readerUrl": "https://batcave.biz/reader/6975/237961",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 85,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237961.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237960,
+        "title": "Invincible (2003) Issue #58",
+        "readerUrl": "https://batcave.biz/reader/6975/237960",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 84,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237960.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237959,
+        "title": "Invincible (2003) Issue #57",
+        "readerUrl": "https://batcave.biz/reader/6975/237959",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 83,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237959.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237958,
+        "title": "Invincible (2003) Issue #56",
+        "readerUrl": "https://batcave.biz/reader/6975/237958",
+        "pageCount": 30,
+        "date": "26.03.2016",
+        "posi": 82,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237958.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237957,
+        "title": "Invincible (2003) Issue #55",
+        "readerUrl": "https://batcave.biz/reader/6975/237957",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 81,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237957.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237956,
+        "title": "Invincible (2003) Issue #54",
+        "readerUrl": "https://batcave.biz/reader/6975/237956",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 80,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237956.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237955,
+        "title": "Invincible (2003) Issue #53",
+        "readerUrl": "https://batcave.biz/reader/6975/237955",
+        "pageCount": 26,
+        "date": "26.03.2016",
+        "posi": 79,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237955.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237954,
+        "title": "Invincible (2003) Issue #52",
+        "readerUrl": "https://batcave.biz/reader/6975/237954",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 78,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237954.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237953,
+        "title": "Invincible (2003) Issue #51",
+        "readerUrl": "https://batcave.biz/reader/6975/237953",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 77,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237953.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237952,
+        "title": "Invincible (2003) Issue #50",
+        "readerUrl": "https://batcave.biz/reader/6975/237952",
+        "pageCount": 38,
+        "date": "26.03.2016",
+        "posi": 76,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237952.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237951,
+        "title": "Invincible (2003) Issue #49",
+        "readerUrl": "https://batcave.biz/reader/6975/237951",
+        "pageCount": 20,
+        "date": "26.03.2016",
+        "posi": 75,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237951.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237950,
+        "title": "Invincible (2003) Issue #48",
+        "readerUrl": "https://batcave.biz/reader/6975/237950",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 74,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237950.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237949,
+        "title": "Invincible (2003) Issue #47",
+        "readerUrl": "https://batcave.biz/reader/6975/237949",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 73,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237949.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237948,
+        "title": "Invincible (2003) Issue #46",
+        "readerUrl": "https://batcave.biz/reader/6975/237948",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 72,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237948.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237947,
+        "title": "Invincible (2003) Issue #45",
+        "readerUrl": "https://batcave.biz/reader/6975/237947",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 71,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237947.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237946,
+        "title": "Invincible (2003) Issue #44",
+        "readerUrl": "https://batcave.biz/reader/6975/237946",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 70,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237946.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237945,
+        "title": "Invincible (2003) Issue #43",
+        "readerUrl": "https://batcave.biz/reader/6975/237945",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 69,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237945.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237944,
+        "title": "Invincible (2003) Issue #42",
+        "readerUrl": "https://batcave.biz/reader/6975/237944",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 68,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237944.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237943,
+        "title": "Invincible (2003) Issue #41",
+        "readerUrl": "https://batcave.biz/reader/6975/237943",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 67,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237943.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237942,
+        "title": "Invincible (2003) Issue #40",
+        "readerUrl": "https://batcave.biz/reader/6975/237942",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 66,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237942.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237941,
+        "title": "Invincible (2003) Issue #39",
+        "readerUrl": "https://batcave.biz/reader/6975/237941",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 65,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237941.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237940,
+        "title": "Invincible (2003) Issue #38",
+        "readerUrl": "https://batcave.biz/reader/6975/237940",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 64,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237940.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237939,
+        "title": "Invincible (2003) Issue #37",
+        "readerUrl": "https://batcave.biz/reader/6975/237939",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 63,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237939.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237938,
+        "title": "Invincible (2003) Issue #36",
+        "readerUrl": "https://batcave.biz/reader/6975/237938",
+        "pageCount": 20,
+        "date": "26.03.2016",
+        "posi": 62,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237938.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237937,
+        "title": "Invincible (2003) Issue #35",
+        "readerUrl": "https://batcave.biz/reader/6975/237937",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 61,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237937.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237936,
+        "title": "Invincible (2003) Issue #34",
+        "readerUrl": "https://batcave.biz/reader/6975/237936",
+        "pageCount": 21,
+        "date": "26.03.2016",
+        "posi": 60,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237936.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237935,
+        "title": "Invincible (2003) Issue #33",
+        "readerUrl": "https://batcave.biz/reader/6975/237935",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 59,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237935.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237934,
+        "title": "Invincible (2003) Issue #32",
+        "readerUrl": "https://batcave.biz/reader/6975/237934",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 58,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237934.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237933,
+        "title": "Invincible (2003) Issue #31",
+        "readerUrl": "https://batcave.biz/reader/6975/237933",
+        "pageCount": 20,
+        "date": "26.03.2016",
+        "posi": 57,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237933.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237932,
+        "title": "Invincible (2003) Issue #30",
+        "readerUrl": "https://batcave.biz/reader/6975/237932",
+        "pageCount": 22,
+        "date": "26.03.2016",
+        "posi": 56,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237932.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237931,
+        "title": "Invincible (2003) Issue #29",
+        "readerUrl": "https://batcave.biz/reader/6975/237931",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 55,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237931.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237930,
+        "title": "Invincible (2003) Issue #28",
+        "readerUrl": "https://batcave.biz/reader/6975/237930",
+        "pageCount": 30,
+        "date": "26.03.2016",
+        "posi": 54,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237930.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237929,
+        "title": "Invincible (2003) Issue #27",
+        "readerUrl": "https://batcave.biz/reader/6975/237929",
+        "pageCount": 19,
+        "date": "26.03.2016",
+        "posi": 53,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237929.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237928,
+        "title": "Invincible (2003) Issue #26",
+        "readerUrl": "https://batcave.biz/reader/6975/237928",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 52,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237928.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237927,
+        "title": "Invincible (2003) Issue #25",
+        "readerUrl": "https://batcave.biz/reader/6975/237927",
+        "pageCount": 49,
+        "date": "26.03.2016",
+        "posi": 51,
+        "hasLocalPages": false
+      },
+      {
+        "id": 237926,
+        "title": "Invincible (2003) Issue #24",
+        "readerUrl": "https://batcave.biz/reader/6975/237926",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 50,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237926.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237925,
+        "title": "Invincible (2003) Issue #23",
+        "readerUrl": "https://batcave.biz/reader/6975/237925",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 49,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237925.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237924,
+        "title": "Invincible (2003) Issue #22",
+        "readerUrl": "https://batcave.biz/reader/6975/237924",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 48,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237924.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237923,
+        "title": "Invincible (2003) Issue #21",
+        "readerUrl": "https://batcave.biz/reader/6975/237923",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 47,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237923.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237922,
+        "title": "Invincible (2003) Issue #20",
+        "readerUrl": "https://batcave.biz/reader/6975/237922",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 46,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237922.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237921,
+        "title": "Invincible (2003) Issue #19",
+        "readerUrl": "https://batcave.biz/reader/6975/237921",
+        "pageCount": 26,
+        "date": "26.03.2016",
+        "posi": 45,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237921.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237920,
+        "title": "Invincible (2003) Issue #18",
+        "readerUrl": "https://batcave.biz/reader/6975/237920",
+        "pageCount": 32,
+        "date": "26.03.2016",
+        "posi": 44,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237920.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237919,
+        "title": "Invincible (2003) Issue #17",
+        "readerUrl": "https://batcave.biz/reader/6975/237919",
+        "pageCount": 32,
+        "date": "26.03.2016",
+        "posi": 43,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237919.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237918,
+        "title": "Invincible (2003) Issue #16",
+        "readerUrl": "https://batcave.biz/reader/6975/237918",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 42,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237918.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237917,
+        "title": "Invincible (2003) Issue #15",
+        "readerUrl": "https://batcave.biz/reader/6975/237917",
+        "pageCount": 30,
+        "date": "26.03.2016",
+        "posi": 41,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237917.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237916,
+        "title": "Invincible (2003) Issue #14",
+        "readerUrl": "https://batcave.biz/reader/6975/237916",
+        "pageCount": 31,
+        "date": "26.03.2016",
+        "posi": 40,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237916.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237915,
+        "title": "Invincible (2003) Issue #13",
+        "readerUrl": "https://batcave.biz/reader/6975/237915",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 39,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237915.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237914,
+        "title": "Invincible (2003) Issue #12",
+        "readerUrl": "https://batcave.biz/reader/6975/237914",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 38,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237914.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237913,
+        "title": "Invincible (2003) Issue #11",
+        "readerUrl": "https://batcave.biz/reader/6975/237913",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 37,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237913.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237912,
+        "title": "Invincible (2003) Issue #10",
+        "readerUrl": "https://batcave.biz/reader/6975/237912",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 36,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237912.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237911,
+        "title": "Invincible (2003) Issue #9",
+        "readerUrl": "https://batcave.biz/reader/6975/237911",
+        "pageCount": 24,
+        "date": "26.03.2016",
+        "posi": 35,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237911.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237910,
+        "title": "Invincible (2003) Issue #8",
+        "readerUrl": "https://batcave.biz/reader/6975/237910",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 34,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237910.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237909,
+        "title": "Invincible (2003) Issue #7",
+        "readerUrl": "https://batcave.biz/reader/6975/237909",
+        "pageCount": 29,
+        "date": "26.03.2016",
+        "posi": 33,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237909.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237908,
+        "title": "Invincible (2003) Issue #6",
+        "readerUrl": "https://batcave.biz/reader/6975/237908",
+        "pageCount": 26,
+        "date": "26.03.2016",
+        "posi": 32,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237908.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237907,
+        "title": "Invincible (2003) Issue #5",
+        "readerUrl": "https://batcave.biz/reader/6975/237907",
+        "pageCount": 23,
+        "date": "26.03.2016",
+        "posi": 31,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237907.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237906,
+        "title": "Invincible (2003) Issue #4",
+        "readerUrl": "https://batcave.biz/reader/6975/237906",
+        "pageCount": 28,
+        "date": "26.03.2016",
+        "posi": 30,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237906.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237905,
+        "title": "Invincible (2003) Issue #3",
+        "readerUrl": "https://batcave.biz/reader/6975/237905",
+        "pageCount": 25,
+        "date": "26.03.2016",
+        "posi": 29,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237905.webp",
+        "hasLocalPages": true,
+        "pages": [
+          "/comics/invincible-2003/issue-237905/page-01.webp",
+          "/comics/invincible-2003/issue-237905/page-02.webp",
+          "/comics/invincible-2003/issue-237905/page-03.webp",
+          "/comics/invincible-2003/issue-237905/page-04.webp",
+          "/comics/invincible-2003/issue-237905/page-05.webp",
+          "/comics/invincible-2003/issue-237905/page-06.webp",
+          "/comics/invincible-2003/issue-237905/page-07.webp",
+          "/comics/invincible-2003/issue-237905/page-08.webp",
+          "/comics/invincible-2003/issue-237905/page-09.webp",
+          "/comics/invincible-2003/issue-237905/page-10.webp",
+          "/comics/invincible-2003/issue-237905/page-11.webp",
+          "/comics/invincible-2003/issue-237905/page-12.webp",
+          "/comics/invincible-2003/issue-237905/page-13.webp",
+          "/comics/invincible-2003/issue-237905/page-14.webp",
+          "/comics/invincible-2003/issue-237905/page-15.webp",
+          "/comics/invincible-2003/issue-237905/page-16.webp",
+          "/comics/invincible-2003/issue-237905/page-17.webp",
+          "/comics/invincible-2003/issue-237905/page-18.webp",
+          "/comics/invincible-2003/issue-237905/page-19.webp",
+          "/comics/invincible-2003/issue-237905/page-20.webp",
+          "/comics/invincible-2003/issue-237905/page-21.webp",
+          "/comics/invincible-2003/issue-237905/page-22.webp",
+          "/comics/invincible-2003/issue-237905/page-23.webp",
+          "/comics/invincible-2003/issue-237905/page-24.webp",
+          "/comics/invincible-2003/issue-237905/page-25.webp"
+        ],
+        "remotePages": [
+          "https://img.batcave.biz/img/7/6975/237905/1-8e0ad2eaf05454d15aa363ba50a1dfb0.jpg?s=GhWSZIHLxEyYAjgHDsvGBg",
+          "https://img.batcave.biz/img/7/6975/237905/2-630ddd72738bdac3c91b08d9130eb25c.jpg?s=Ih6RpamL-7OaaYEWDzwtNQ",
+          "https://img.batcave.biz/img/7/6975/237905/3-0a932638215be3745ddeabf215ded2dc.jpg?s=7ilvdMh-eZEs0UKm4XSdGw",
+          "https://img.batcave.biz/img/7/6975/237905/4-d119e107e7d6a865d67ad66e4c572107.jpg?s=dQcZPtOzjEEweuWJTkEptQ",
+          "https://img.batcave.biz/img/7/6975/237905/5-3154ec1c62fe1faab459171d7e1cc674.jpg?s=Uw2rDGffKvbbs5e3z5Qi2A",
+          "https://img.batcave.biz/img/7/6975/237905/6-c716d4083b47942e974d6a8889654836.jpg?s=viGNeoWw-23Sp0NGDTRu1w",
+          "https://img.batcave.biz/img/7/6975/237905/7-15704e043dfae1aaa79c8c34f5eb13c4.jpg?s=j6GNCD60dVeahu2J4MwRwg",
+          "https://img.batcave.biz/img/7/6975/237905/8-6b9d37accb7e178917eb302389b79018.jpg?s=B4VbzTYqDV93lTkIHRcBCA",
+          "https://img.batcave.biz/img/7/6975/237905/9-f9ce5f5e143762517474ebea11ec5960.jpg?s=gwAwMBKsXc7lhLoDTGUsCw",
+          "https://img.batcave.biz/img/7/6975/237905/10-6b3cc84014a11001b38abecdcb20d734.jpg?s=hyNEsNrV3Q_PeoFgXxABBg",
+          "https://img.batcave.biz/img/7/6975/237905/11-1f34a69ecdca5d2bcb28e50bf36203be.jpg?s=ltvJueq6lSlSRrY-36mNAg",
+          "https://img.batcave.biz/img/7/6975/237905/12-f9bd73d63d8767f23c1d8a00e4c72bf7.jpg?s=3qmhCC_-bX3xhs8_yVCTHQ",
+          "https://img.batcave.biz/img/7/6975/237905/13-72ab03487a3432b2233c8a6905b55911.jpg?s=y9dX9HevqVOfE6wizuzxVA",
+          "https://img.batcave.biz/img/7/6975/237905/14-f3a74d01b53104ca8d77624eeba06633.jpg?s=nF4cIYHxyW14cpTj2SmySA",
+          "https://img.batcave.biz/img/7/6975/237905/15-defb0f85db8b9b8015349e7c77424456.jpg?s=Zp7J-gTqSvfQy-LS5RMVOw",
+          "https://img.batcave.biz/img/7/6975/237905/16-fdd7134265fc5ea5829f5d855e7363d9.jpg?s=w-1OEtb0mGGWZrL8iwRLcg",
+          "https://img.batcave.biz/img/7/6975/237905/17-16855d2b3b6a69f9bd37d972fdf5867f.jpg?s=Qsos-_ekA7rSf8ZrkFK80g",
+          "https://img.batcave.biz/img/7/6975/237905/18-16cffa794c9cb72545133eb4a5c95552.jpg?s=zZYwxhXhEau_H5z85NPT2Q",
+          "https://img.batcave.biz/img/7/6975/237905/19-ea99f8df5d1513a3e0f7469a1e1c7272.jpg?s=NdgIsgAcXLRyVEgyJQhIwA",
+          "https://img.batcave.biz/img/7/6975/237905/20-660830a3d23a74c1b243978e7f6feda3.jpg?s=33otCTkgicnpDeJf_S6EtQ",
+          "https://img.batcave.biz/img/7/6975/237905/21-fbfc2ac4dcef9e6e48966fec6d3074b8.jpg?s=p078VTnLIZyum0reAhyBLQ",
+          "https://img.batcave.biz/img/7/6975/237905/22-2b165a7af93c1d35809eb1eb323e4cbc.jpg?s=Sw5J_NmUOrYYULXy5prLzA",
+          "https://img.batcave.biz/img/7/6975/237905/23-b36aa8698f1a1e5cfb5dde378df6058c.jpg?s=_j1XOIOT-XmUZ_2BCSx6LA",
+          "https://img.batcave.biz/img/7/6975/237905/24-7c0e9576f912df263e7cf2074764ed4e.jpg?s=U6kypC_P7YJ44AJH1DhzvQ",
+          "https://img.batcave.biz/img/7/6975/237905/25-4cea7cba458d334b81927a16b1c364af.jpg?s=9YwveMzyrxhYwmkVAvoQXA"
+        ]
+      },
+      {
+        "id": 237904,
+        "title": "Invincible (2003) Issue #2",
+        "readerUrl": "https://batcave.biz/reader/6975/237904",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 28,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237904.webp",
+        "hasLocalPages": true,
+        "pages": [
+          "/comics/invincible-2003/issue-237904/page-01.webp",
+          "/comics/invincible-2003/issue-237904/page-02.webp",
+          "/comics/invincible-2003/issue-237904/page-03.webp",
+          "/comics/invincible-2003/issue-237904/page-04.webp",
+          "/comics/invincible-2003/issue-237904/page-05.webp",
+          "/comics/invincible-2003/issue-237904/page-06.webp",
+          "/comics/invincible-2003/issue-237904/page-07.webp",
+          "/comics/invincible-2003/issue-237904/page-08.webp",
+          "/comics/invincible-2003/issue-237904/page-09.webp",
+          "/comics/invincible-2003/issue-237904/page-10.webp",
+          "/comics/invincible-2003/issue-237904/page-11.webp",
+          "/comics/invincible-2003/issue-237904/page-12.webp",
+          "/comics/invincible-2003/issue-237904/page-13.webp",
+          "/comics/invincible-2003/issue-237904/page-14.webp",
+          "/comics/invincible-2003/issue-237904/page-15.webp",
+          "/comics/invincible-2003/issue-237904/page-16.webp",
+          "/comics/invincible-2003/issue-237904/page-17.webp",
+          "/comics/invincible-2003/issue-237904/page-18.webp",
+          "/comics/invincible-2003/issue-237904/page-19.webp",
+          "/comics/invincible-2003/issue-237904/page-20.webp",
+          "/comics/invincible-2003/issue-237904/page-21.webp",
+          "/comics/invincible-2003/issue-237904/page-22.webp",
+          "/comics/invincible-2003/issue-237904/page-23.webp",
+          "/comics/invincible-2003/issue-237904/page-24.webp",
+          "/comics/invincible-2003/issue-237904/page-25.webp",
+          "/comics/invincible-2003/issue-237904/page-26.webp",
+          "/comics/invincible-2003/issue-237904/page-27.webp"
+        ],
+        "remotePages": [
+          "https://img.batcave.biz/img/7/6975/237904/1-751813ca3c47878a5f69d09ff9277a3a.jpg?s=5ab_IgpNfF0-bjWBY3cZZg",
+          "https://img.batcave.biz/img/7/6975/237904/2-c8b29b66c75a9f37944caf228e2f5824.jpg?s=1g5oujqOR9UQThASKb_4ng",
+          "https://img.batcave.biz/img/7/6975/237904/3-f3ae644feaf802823130ca590c01625b.jpg?s=V1a0wSAkykugxKCTq2itXA",
+          "https://img.batcave.biz/img/7/6975/237904/4-43c061110e33e242fb19fa41aa4d4cbc.jpg?s=_K0u3bP6ZWDMttH1o33i7A",
+          "https://img.batcave.biz/img/7/6975/237904/5-6739001ed1214467d91a9acb4291091f.jpg?s=I5I5pciYB1_ZGqT1nHO_hw",
+          "https://img.batcave.biz/img/7/6975/237904/6-18e441ddfdda5847d2f95ba29568d52a.jpg?s=E8gCvt8j9Przg0hMjWfHrQ",
+          "https://img.batcave.biz/img/7/6975/237904/7-4bce05e302b147e4ee1b52a3665a06c7.jpg?s=H0Iy_B7EhQiDNAlKiBCa4w",
+          "https://img.batcave.biz/img/7/6975/237904/8-a9d2c61ab8e1fc1da2216a532fccf9c9.jpg?s=fbZaqnWQd2r9Jt6seobsjw",
+          "https://img.batcave.biz/img/7/6975/237904/9-536d27e66c7024cc292f809b8bc50358.jpg?s=Tr7anjvah9_uNeRcC5E8Nw",
+          "https://img.batcave.biz/img/7/6975/237904/10-003485517bf54030d0a6ae8c7c89b0dd.jpg?s=QfF-pjlyCKxvBk6qqvHW0g",
+          "https://img.batcave.biz/img/7/6975/237904/11-1825efdd84083c76feddec1bac9e2388.jpg?s=nC4NIBGLzLj-C-mVNCJD6Q",
+          "https://img.batcave.biz/img/7/6975/237904/12-97bc2b1dee9d0d1f805242b80954b007.jpg?s=kbM3C4ZOhWdYrpZ-gRGfLg",
+          "https://img.batcave.biz/img/7/6975/237904/13-c2b305aa2f5d0704106ebe9e4df3c444.jpg?s=2N5t3_hJPFNasRS5ODGOdw",
+          "https://img.batcave.biz/img/7/6975/237904/14-c8c4610edd221046e8190d6a2dcce54f.jpg?s=Vw6ZapH_mWwsSAQRGllU3g",
+          "https://img.batcave.biz/img/7/6975/237904/15-63c2ce8b1ee018302476ab4aa44c6523.jpg?s=Do4yXNy5bCMgZ47hWnhauw",
+          "https://img.batcave.biz/img/7/6975/237904/16-a9d5bb1cfc56a61bca8fd55a62a59669.jpg?s=mPEzqWxo4krUzDOkg-5TWQ",
+          "https://img.batcave.biz/img/7/6975/237904/17-510cca19ee834c5deecc92dba456bc0e.jpg?s=bCNkLrbuhVsuG_8rseqllw",
+          "https://img.batcave.biz/img/7/6975/237904/18-bc0b2d9627b10d67649993c01e7f981e.jpg?s=fwfOcdEzIOiBtDStpXBong",
+          "https://img.batcave.biz/img/7/6975/237904/19-8f12e427018a9ec79d66b4d4ac0cee67.jpg?s=shCnWOes72aGIOsiXD-7-g",
+          "https://img.batcave.biz/img/7/6975/237904/20-a3f6aff7788bbcb30e430d824d63f496.jpg?s=fG0jSrL22JpBG3Swynze6w",
+          "https://img.batcave.biz/img/7/6975/237904/21-96dc60e7279ff7f541989d69124caee3.jpg?s=BS_YjdaX3LFD3eu5Nv0Qpw",
+          "https://img.batcave.biz/img/7/6975/237904/22-6d5c69f1de9d1ea2b564ed26ec97236a.jpg?s=D1C7wSlu75MWIMb4J3kI0g",
+          "https://img.batcave.biz/img/7/6975/237904/23-a30580b6bbc6887692d4fa7cbcaed824.jpg?s=hTzWIY78dofQ2BCzEKAIlw",
+          "https://img.batcave.biz/img/7/6975/237904/24-6a3748377394c8a926f600086e3759a5.jpg?s=R7lADiz9bs0vIuM8pmUXmA",
+          "https://img.batcave.biz/img/7/6975/237904/25-ead204fb4f95cabbb2763547109d127b.jpg?s=r-ZyDi9aUXRzSWbOG5gLlQ",
+          "https://img.batcave.biz/img/7/6975/237904/26-65506e2a12a9a26fc86c63059c1e1081.jpg?s=q_JTgP5VioBm3N3UuX0aeg",
+          "https://img.batcave.biz/img/7/6975/237904/27-e167853fda8b2d2c0229557a71a6e25f.jpg?s=iXb6LGB8cIM3TTk1hiHaVg"
+        ]
+      },
+      {
+        "id": 237903,
+        "title": "Invincible (2003) Issue #1",
+        "readerUrl": "https://batcave.biz/reader/6975/237903",
+        "pageCount": 27,
+        "date": "26.03.2016",
+        "posi": 27,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237903.webp",
+        "pages": [
+          "/comics/invincible-2003/issue-237903/page-01.webp",
+          "/comics/invincible-2003/issue-237903/page-02.webp",
+          "/comics/invincible-2003/issue-237903/page-03.webp",
+          "/comics/invincible-2003/issue-237903/page-04.webp",
+          "/comics/invincible-2003/issue-237903/page-05.webp",
+          "/comics/invincible-2003/issue-237903/page-06.webp",
+          "/comics/invincible-2003/issue-237903/page-07.webp",
+          "/comics/invincible-2003/issue-237903/page-08.webp",
+          "/comics/invincible-2003/issue-237903/page-09.webp",
+          "/comics/invincible-2003/issue-237903/page-10.webp",
+          "/comics/invincible-2003/issue-237903/page-11.webp",
+          "/comics/invincible-2003/issue-237903/page-12.webp",
+          "/comics/invincible-2003/issue-237903/page-13.webp",
+          "/comics/invincible-2003/issue-237903/page-14.webp",
+          "/comics/invincible-2003/issue-237903/page-15.webp",
+          "/comics/invincible-2003/issue-237903/page-16.webp",
+          "/comics/invincible-2003/issue-237903/page-17.webp",
+          "/comics/invincible-2003/issue-237903/page-18.webp",
+          "/comics/invincible-2003/issue-237903/page-19.webp",
+          "/comics/invincible-2003/issue-237903/page-20.webp",
+          "/comics/invincible-2003/issue-237903/page-21.webp",
+          "/comics/invincible-2003/issue-237903/page-22.webp",
+          "/comics/invincible-2003/issue-237903/page-23.webp",
+          "/comics/invincible-2003/issue-237903/page-24.webp",
+          "/comics/invincible-2003/issue-237903/page-25.webp",
+          "/comics/invincible-2003/issue-237903/page-26.webp",
+          "/comics/invincible-2003/issue-237903/page-27.webp"
+        ],
+        "remotePages": [
+          "https://img.batcave.biz/img/7/6975/237903/1-dcaa1e92f93f306754088dea057fc0ae.jpg?s=aVdp0mnJbj-XlrL2bKqmSg",
+          "https://img.batcave.biz/img/7/6975/237903/2-b9407338d777b82560a48133039a3347.jpg?s=2EnU-zx4F7OgFyEFMtcC5A",
+          "https://img.batcave.biz/img/7/6975/237903/3-9a93f221c9016cfea378dde594e29548.jpg?s=5ZK2LioZ7RPWB2HFhg1LSQ",
+          "https://img.batcave.biz/img/7/6975/237903/4-28b3b58a05be5972a067743171994d4c.jpg?s=SUuZ61sxP2MS4XNVw7Ua2A",
+          "https://img.batcave.biz/img/7/6975/237903/5-735b9ed31bb92f6c719f960dafd9e9bb.jpg?s=lAB5psFr09UNB0wpcnfaNw",
+          "https://img.batcave.biz/img/7/6975/237903/6-62605b90de3216d0073433f0c1c282f3.jpg?s=OzSHd3r5_bPM5yz40_bDqg",
+          "https://img.batcave.biz/img/7/6975/237903/7-e95e1fa67ab3e4615e2e136edf83ad15.jpg?s=wfe6oJYP9vQiKYkLiAMC-g",
+          "https://img.batcave.biz/img/7/6975/237903/8-af076c553753f8b236411a7ceb2f0f73.jpg?s=gZJXNCF4LqMXYvjncPrVNA",
+          "https://img.batcave.biz/img/7/6975/237903/9-17ccb61afe81821e14f5a2d00e5398c6.jpg?s=mavKbxkuOTR-3riXmbTNYg",
+          "https://img.batcave.biz/img/7/6975/237903/10-1464f197631999a97b029405e69bb011.jpg?s=PMC-m9mIZYMzCkPXusXkpw",
+          "https://img.batcave.biz/img/7/6975/237903/11-669015780c3b69a3789c7d5cd5164062.jpg?s=puvQOQmc2qXXx_3ACYOQFQ",
+          "https://img.batcave.biz/img/7/6975/237903/12-15be3803a3bbdcb1d02f35da75452e31.jpg?s=I0jlUYdvz3PH26daJvfxUw",
+          "https://img.batcave.biz/img/7/6975/237903/13-381e96fd01b16b0a4c2c4ce8d467db00.jpg?s=6Vs9kLd0XUb2wpNy-K2xOg",
+          "https://img.batcave.biz/img/7/6975/237903/14-efc52db4739ac2c0a9d6bd2dfef46299.jpg?s=WpyJrUc0JrZSbVvt7zJ8og",
+          "https://img.batcave.biz/img/7/6975/237903/15-a3b8f446867d7993c14cfe19fbee87a1.jpg?s=Wl07FLdT_f32tn4sqdFY4w",
+          "https://img.batcave.biz/img/7/6975/237903/16-114e18cc3ef98731192d01b32437c2fa.jpg?s=BTMUh5jl9ZjSkSa7sYjuLw",
+          "https://img.batcave.biz/img/7/6975/237903/17-56fc30acefe60bafa718841f2b9a709b.jpg?s=fDHtVD1TP3vINHDxMvKSjw",
+          "https://img.batcave.biz/img/7/6975/237903/18-a2dca97a6ec411846c639f40b6cae5c9.jpg?s=SZaFE3_kYHzbDCiUThEGZQ",
+          "https://img.batcave.biz/img/7/6975/237903/19-5746b60dafd88b304785530cf5fba8f9.jpg?s=4LAwRrusrVAqMKkP6NbzCg",
+          "https://img.batcave.biz/img/7/6975/237903/20-3a8f67c8d8fc82d35bb930a7e221df88.jpg?s=Kaoi4wBDG2BqPncZxask4w",
+          "https://img.batcave.biz/img/7/6975/237903/21-1d979121653786871c892979dc6f79d5.jpg?s=mjmnRKxfxNezHu1hu1McqA",
+          "https://img.batcave.biz/img/7/6975/237903/22-f4b9ab63fb4e63e00579e781f01f6cb4.jpg?s=m5SecqA1FMIZZ15KvVbBNw",
+          "https://img.batcave.biz/img/7/6975/237903/23-e8ab79fa8572507dd1482058104c2b45.jpg?s=xxGGqNL3gA2L2bo2QjKRlA",
+          "https://img.batcave.biz/img/7/6975/237903/24-5cbe68c0689d29a55a2dfd36cb93d390.jpg?s=zm5RC5nfxXYWYNS4iblLqw",
+          "https://img.batcave.biz/img/7/6975/237903/25-707e00d818adc67b0b58c12b620b37df.jpg?s=CXCS5TETUFmZBAz4aYGI-g",
+          "https://img.batcave.biz/img/7/6975/237903/26-f8995170009b5799b9eb37bd14481b79.jpg?s=7WVSLgcf-SJVeXsE5eGMaQ",
+          "https://img.batcave.biz/img/7/6975/237903/27-769da96d599533a08ecba991bd4a17ae.jpg?s=BYvNbJBt4RTBydoO78Q-Iw"
+        ],
+        "hasLocalPages": true
+      },
+      {
+        "id": 237902,
+        "title": "Invincible (2003) Issue #0",
+        "readerUrl": "https://batcave.biz/reader/6975/237902",
+        "pageCount": 18,
+        "date": "6.02.2017",
+        "posi": 26,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237902.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237901,
+        "title": "Invincible (2003) _TPB 25 - The End of All Things Part Two",
+        "readerUrl": "https://batcave.biz/reader/6975/237901",
+        "pageCount": 189,
+        "date": "23.12.2020",
+        "posi": 25,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237901.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237900,
+        "title": "Invincible (2003) _TPB 24 - The End Of All Things Part One",
+        "readerUrl": "https://batcave.biz/reader/6975/237900",
+        "pageCount": 146,
+        "date": "23.12.2020",
+        "posi": 24,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237900.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237899,
+        "title": "Invincible (2003) _TPB 23 - Full House",
+        "readerUrl": "https://batcave.biz/reader/6975/237899",
+        "pageCount": 153,
+        "date": "23.12.2020",
+        "posi": 23,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237899.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237898,
+        "title": "Invincible (2003) _TPB 22 - Reboot",
+        "readerUrl": "https://batcave.biz/reader/6975/237898",
+        "pageCount": 152,
+        "date": "23.12.2020",
+        "posi": 22,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237898.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237897,
+        "title": "Invincible (2003) _TPB 21 - Modern Family",
+        "readerUrl": "https://batcave.biz/reader/6975/237897",
+        "pageCount": 147,
+        "date": "30.03.2016",
+        "posi": 21,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237897.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237896,
+        "title": "Invincible (2003) _TPB 20 - Friends",
+        "readerUrl": "https://batcave.biz/reader/6975/237896",
+        "pageCount": 151,
+        "date": "30.03.2016",
+        "posi": 20,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237896.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237895,
+        "title": "Invincible (2003) _TPB 19 - The War at Home",
+        "readerUrl": "https://batcave.biz/reader/6975/237895",
+        "pageCount": 155,
+        "date": "30.03.2016",
+        "posi": 19,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237895.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237894,
+        "title": "Invincible (2003) _TPB 18 - Death of Everyone",
+        "readerUrl": "https://batcave.biz/reader/6975/237894",
+        "pageCount": 159,
+        "date": "30.03.2016",
+        "posi": 18,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237894.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237893,
+        "title": "Invincible (2003) _TPB 17 - What's Happening",
+        "readerUrl": "https://batcave.biz/reader/6975/237893",
+        "pageCount": 145,
+        "date": "30.03.2016",
+        "posi": 17,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237893.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237892,
+        "title": "Invincible (2003) _TPB 16 - Family Ties",
+        "readerUrl": "https://batcave.biz/reader/6975/237892",
+        "pageCount": 151,
+        "date": "30.03.2016",
+        "posi": 16,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237892.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237891,
+        "title": "Invincible (2003) _TPB 15 - Get Smart",
+        "readerUrl": "https://batcave.biz/reader/6975/237891",
+        "pageCount": 143,
+        "date": "30.03.2016",
+        "posi": 15,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237891.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237890,
+        "title": "Invincible (2003) _TPB 14 - The Viltrumite War",
+        "readerUrl": "https://batcave.biz/reader/6975/237890",
+        "pageCount": 197,
+        "date": "30.03.2016",
+        "posi": 14,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237890.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237889,
+        "title": "Invincible (2003) _TPB 13 - Growing Pains",
+        "readerUrl": "https://batcave.biz/reader/6975/237889",
+        "pageCount": 166,
+        "date": "30.03.2016",
+        "posi": 13,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237889.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237888,
+        "title": "Invincible (2003) _TPB 12 - Still Standing",
+        "readerUrl": "https://batcave.biz/reader/6975/237888",
+        "pageCount": 156,
+        "date": "30.03.2016",
+        "posi": 12,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237888.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237887,
+        "title": "Invincible (2003) _TPB 11 - Happy Days",
+        "readerUrl": "https://batcave.biz/reader/6975/237887",
+        "pageCount": 167,
+        "date": "30.03.2016",
+        "posi": 11,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237887.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237886,
+        "title": "Invincible (2003) _TPB 10 - Who's the Boss",
+        "readerUrl": "https://batcave.biz/reader/6975/237886",
+        "pageCount": 173,
+        "date": "30.03.2016",
+        "posi": 10,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237886.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237885,
+        "title": "Invincible (2003) _TPB 9 - Out of This World",
+        "readerUrl": "https://batcave.biz/reader/6975/237885",
+        "pageCount": 147,
+        "date": "30.03.2016",
+        "posi": 9,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237885.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237884,
+        "title": "Invincible (2003) _TPB 8 - My Favorite Martian",
+        "readerUrl": "https://batcave.biz/reader/6975/237884",
+        "pageCount": 151,
+        "date": "30.03.2016",
+        "posi": 8,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237884.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237883,
+        "title": "Invincible (2003) _TPB 7 - Threes Company",
+        "readerUrl": "https://batcave.biz/reader/6975/237883",
+        "pageCount": 163,
+        "date": "30.03.2016",
+        "posi": 7,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237883.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237882,
+        "title": "Invincible (2003) _TPB 6 - A Different World",
+        "readerUrl": "https://batcave.biz/reader/6975/237882",
+        "pageCount": 158,
+        "date": "30.03.2016",
+        "posi": 6,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237882.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237881,
+        "title": "Invincible (2003) _TPB 5 - The Facts of Life",
+        "readerUrl": "https://batcave.biz/reader/6975/237881",
+        "pageCount": 169,
+        "date": "30.03.2016",
+        "posi": 5,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237881.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237880,
+        "title": "Invincible (2003) _TPB 4 - Head of The Class",
+        "readerUrl": "https://batcave.biz/reader/6975/237880",
+        "pageCount": 169,
+        "date": "30.03.2016",
+        "posi": 4,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237880.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237879,
+        "title": "Invincible (2003) _TPB 3 - Perfect Strangers",
+        "readerUrl": "https://batcave.biz/reader/6975/237879",
+        "pageCount": 134,
+        "date": "30.03.2016",
+        "posi": 3,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237879.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237878,
+        "title": "Invincible (2003) _TPB 2 - Eight is Enough",
+        "readerUrl": "https://batcave.biz/reader/6975/237878",
+        "pageCount": 129,
+        "date": "30.03.2016",
+        "posi": 2,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237878.webp",
+        "hasLocalPages": false
+      },
+      {
+        "id": 237877,
+        "title": "Invincible (2003) _TPB 1 - Family matters",
+        "readerUrl": "https://batcave.biz/reader/6975/237877",
+        "pageCount": 124,
+        "date": "11.07.2026",
+        "posi": 1,
+        "thumb": "https://batcave.biz/uploads/chthumbs/237/237877.webp",
+        "hasLocalPages": false
+      }
+    ]
+  },
+  {
+    "id": "batcave-39074",
+    "newsId": 39074,
+    "title": "Gray Lady (2025-)",
+    "year": 2025,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Gray Lady (2025-) #1 (14.11.2026).",
+    "poster": "/comics/covers/39074.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/15/c01fb34694a56b21983e9c1c563b9f.webp",
+    "sourceUrl": "https://batcave.biz/39074-gray-lady-2025.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 278127,
+        "title": "Gray Lady (2025-) #1",
+        "readerUrl": "https://batcave.biz/reader/39074/278127",
+        "date": "14.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 5,
+    "defaultChapterId": 278127
+  },
+  {
+    "id": "batcave-39072",
+    "newsId": 39072,
+    "title": "I Am Looking For Exit",
+    "year": 2026,
+    "publisher": "Now World",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Taji, a soul haunted by misfortune, embarks on a quest in search of the elusive EXIT said to grant happiness. He seeks guidance from the town seer, Lord Brainwave, who directs him toward a path that...",
+    "poster": "/comics/covers/39072.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/100x150/bd/5d5313277466cfdb2fa15b3c1253a3.webp",
+    "sourceUrl": "https://batcave.biz/39072-i-am-looking-for-exit.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39072,
+        "title": "I Am Looking For Exit — BatCave Source",
+        "readerUrl": "https://batcave.biz/39072-i-am-looking-for-exit.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 39072
+  },
+  {
+    "id": "batcave-39071",
+    "newsId": 39071,
+    "title": "Victoria Jaguar (2026-)",
+    "year": 2026,
+    "publisher": "Mad Cave",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Victoria Jaguar (2026-) #1 (13.11.2026).",
+    "poster": "/comics/covers/39071.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/100x150/fb/107aa6fb28f5a27b379775ef34658d.webp",
+    "sourceUrl": "https://batcave.biz/39071-victoria-jaguar-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 278112,
+        "title": "Victoria Jaguar (2026-) #1",
+        "readerUrl": "https://batcave.biz/reader/39071/278112",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 278112
+  },
+  {
+    "id": "batcave-39070",
+    "newsId": 39070,
+    "title": "I Saw Spawn: A Twisted Christmas Tale (2026-)",
+    "year": 2026,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: I Saw Spawn: A Twisted Christmas Tale (2026-) #1 (13.11.2026).",
+    "poster": "/comics/covers/39070.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/8b/4adfb1df1d7605ededb30c271d5835.webp",
+    "sourceUrl": "https://batcave.biz/39070-i-saw-spawn-a-twisted-christmas-tale-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 278106,
+        "title": "I Saw Spawn: A Twisted Christmas Tale (2026-) #1",
+        "readerUrl": "https://batcave.biz/reader/39070/278106",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 5,
+    "defaultChapterId": 278106
+  },
+  {
+    "id": "batcave-39069",
+    "newsId": 39069,
+    "title": "The Snail (2026-)",
+    "year": 2026,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: The Snail (2026-) #1 (13.11.2026).",
+    "poster": "/comics/covers/39069.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/c9/a05135bf01d2641220bcb472641ec5.webp",
+    "sourceUrl": "https://batcave.biz/39069-the-snail-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 278102,
+        "title": "The Snail (2026-) #1",
+        "readerUrl": "https://batcave.biz/reader/39069/278102",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 3.2,
+    "defaultChapterId": 278102
+  },
+  {
+    "id": "batcave-39065",
+    "newsId": 39065,
+    "title": "Artists from the Abyss: Charlie Adlard (2026-)",
+    "year": 2026,
+    "publisher": "Oni Press",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Artists from the Abyss: Charlie Adlard (2026-) #1 (12.11.2026).",
+    "poster": "/comics/covers/39065.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/b1/1a2c04176dfd3b344b06979d1d5950.webp",
+    "sourceUrl": "https://batcave.biz/39065-artists-from-the-abyss-charlie-adlard-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 278079,
+        "title": "Artists from the Abyss: Charlie Adlard (2026-) #1",
+        "readerUrl": "https://batcave.biz/reader/39065/278079",
+        "date": "12.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 2.5,
+    "defaultChapterId": 278079
+  },
+  {
+    "id": "batcave-39064",
+    "newsId": 39064,
+    "title": "Minor Threats: The Cleaner (2026-)",
+    "year": 2026,
+    "publisher": "Dark Horse",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "In Twilight City, life is brutal and death is routine for many. When the capes create a mess too dangerous to bury, a single number is dialed: THE CLEANER. By day, David O’Halloran runs a small...",
+    "poster": "/comics/covers/39064.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/1a/7341c21820e8f606267bdeef56dc16.webp",
+    "sourceUrl": "https://batcave.biz/39064-minor-threats-the-cleaner-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39064,
+        "title": "Minor Threats: The Cleaner (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39064-minor-threats-the-cleaner-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 5,
+    "defaultChapterId": 39064
+  },
+  {
+    "id": "batcave-39068",
+    "newsId": 39068,
+    "title": "Daredevil: Shadowland Omnibus",
+    "year": 2024,
+    "publisher": "Marvel Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Daredevil rises to leadership of the Hand, and his methods and purpose anchor a new, dangerous order within Hell’s Kitchen. As the city buckles under this redefined influence, Daredevil’s former...",
+    "poster": "/comics/covers/39068.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/100x150/b6/4eb1b1cc51426929c144ac5db109b6.webp",
+    "sourceUrl": "https://batcave.biz/39068-daredevil-shadowland-omnibus.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39068,
+        "title": "Daredevil: Shadowland Omnibus — BatCave Source",
+        "readerUrl": "https://batcave.biz/39068-daredevil-shadowland-omnibus.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 39068
+  },
+  {
+    "id": "batcave-39067",
+    "newsId": 39067,
+    "title": "Fantastic Four / Doom 2099 Omnibus",
+    "year": 2099,
+    "publisher": "Marvel Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "In Marvel's 2099 future, Doctor Doom reemerges to seize power and restore Latveria, setting his sights on a destabilized America. Victor von Doom forges an iron-fisted order as he confronts a...",
+    "poster": "/comics/covers/39067.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/100x150/50/8395627107ba3fc9af7943a28b5a9f.webp",
+    "sourceUrl": "https://batcave.biz/39067-fantastic-four-doom-2099-omnibus.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39067,
+        "title": "Fantastic Four / Doom 2099 Omnibus — BatCave Source",
+        "readerUrl": "https://batcave.biz/39067-fantastic-four-doom-2099-omnibus.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 39067
+  },
+  {
+    "id": "batcave-39066",
+    "newsId": 39066,
+    "title": "Sherlock Time (2026)",
+    "year": 2026,
+    "publisher": "Fantagraphics Books",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "In Sherlock Time, a retiree named Julio Luna purchases a dwelling that seems almost unreal in price, setting the stage for a disturbing chain of events in San Isidro. When disappearances mount, a...",
+    "poster": "/comics/covers/39066.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/100x150/1b/c29d5146526c0ff89756b225db4e33.webp",
+    "sourceUrl": "https://batcave.biz/39066-sherlock-time-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39066,
+        "title": "Sherlock Time (2026) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39066-sherlock-time-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 39066
+  },
+  {
+    "id": "batcave-33051",
+    "newsId": 33051,
+    "title": "Absolute Batman (2024-)",
+    "year": 2024,
+    "publisher": "DC Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Absolute Batman (2024-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/33051.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/44/e7399f0215bb45d253331ad34b24ae.webp",
+    "sourceUrl": "https://batcave.biz/33051-absolute-batman-2024.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 33051,
+        "title": "Absolute Batman (2024-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33051-absolute-batman-2024.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 4.5,
+    "defaultChapterId": 33051
+  },
+  {
+    "id": "batcave-12291",
+    "newsId": 12291,
+    "title": "Crossed",
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Crossed — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/12291.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/58/f2213bc20847aa3052113b0be7b3f8.webp",
+    "sourceUrl": "https://batcave.biz/12291-crossed.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 12291,
+        "title": "Crossed — BatCave Source",
+        "readerUrl": "https://batcave.biz/12291-crossed.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 12291
+  },
+  {
+    "id": "batcave-33758",
+    "newsId": 33758,
+    "title": "Batman (2025-)",
+    "year": 2025,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Batman (2025-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/33758.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/b5/ed483acd9b2961caf09b703e067485.webp",
+    "sourceUrl": "https://batcave.biz/33758-batman-2025.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 33758,
+        "title": "Batman (2025-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33758-batman-2025.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 33758
+  },
+  {
+    "id": "batcave-33091",
+    "newsId": 33091,
+    "title": "Absolute Wonder Woman (2024-)",
+    "year": 2024,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Absolute Wonder Woman (2024-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/33091.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/ba/76324421848a62b04c1b8bcc23d804.webp",
+    "sourceUrl": "https://batcave.biz/33091-absolute-wonder-woman-2024.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 33091,
+        "title": "Absolute Wonder Woman (2024-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33091-absolute-wonder-woman-2024.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 33091
+  },
+  {
+    "id": "batcave-33086",
+    "newsId": 33086,
+    "title": "Absolute Superman (2024-)",
+    "year": 2024,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Absolute Superman (2024-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/33086.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/5d/bf79030427e02aa2166444c2c970df.webp",
+    "sourceUrl": "https://batcave.biz/33086-absolute-superman-2024.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 33086,
+        "title": "Absolute Superman (2024-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33086-absolute-superman-2024.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 33086
+  },
+  {
+    "id": "batcave-12297",
+    "newsId": 12297,
+    "title": "Crossed: Badlands",
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Crossed: Badlands — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/12297.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/11/f4fdaef37ad40d39d1fcbfc15cdc10.webp",
+    "sourceUrl": "https://batcave.biz/12297-crossed-badlands.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 12297,
+        "title": "Crossed: Badlands — BatCave Source",
+        "readerUrl": "https://batcave.biz/12297-crossed-badlands.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 12297
+  },
+  {
+    "id": "batcave-38553",
+    "newsId": 38553,
+    "title": "Teen Titans (2026-)",
+    "year": 2026,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Teen Titans (2026-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/38553.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/5f/32bb481ec6df0fcb9c253ab2112a3d.webp",
+    "sourceUrl": "https://batcave.biz/38553-teen-titans-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 38553,
+        "title": "Teen Titans (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/38553-teen-titans-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 38553
+  },
+  {
+    "id": "batcave-38792",
+    "newsId": 38792,
+    "title": "Midnight Spider-Man (2026-)",
+    "year": 2026,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Midnight Spider-Man (2026-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "https://batcave.biz/uploads/mini/64x96/13/3090c25f9d7a102de27b79c81781c9.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/13/3090c25f9d7a102de27b79c81781c9.webp",
+    "sourceUrl": "https://batcave.biz/38792-midnight-spider-man-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 38792,
+        "title": "Midnight Spider-Man (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/38792-midnight-spider-man-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 38792
+  },
+  {
+    "id": "batcave-6966",
+    "newsId": 6966,
+    "title": "The Amazing Spider-Man (1963-2018)",
+    "year": 1963,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "The Amazing Spider-Man (1963-2018) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/6966.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/3e/d7f7a52104ff366f121367b0133de7.webp",
+    "sourceUrl": "https://batcave.biz/6966-the-amazing-spider-man-1963.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 6966,
+        "title": "The Amazing Spider-Man (1963-2018) — BatCave Source",
+        "readerUrl": "https://batcave.biz/6966-the-amazing-spider-man-1963.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 6966
+  },
+  {
+    "id": "batcave-33390",
+    "newsId": 33390,
+    "title": "Absolute Flash (2025-)",
+    "year": 2025,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Absolute Flash (2025-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/33390.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/fa/f992d995a10e9771368d66cae8e32d.webp",
+    "sourceUrl": "https://batcave.biz/33390-absolute-flash-2025.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 33390,
+        "title": "Absolute Flash (2025-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33390-absolute-flash-2025.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 33390
+  },
+  {
+    "id": "batcave-6967",
+    "newsId": 6967,
+    "title": "Uncanny X-Men (1963)",
+    "year": 1963,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Uncanny X-Men (1963) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/6967.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/02/4e04a76c6199816b16224b2ec76920.webp",
+    "sourceUrl": "https://batcave.biz/6967-uncanny-x-men-1963.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 6967,
+        "title": "Uncanny X-Men (1963) — BatCave Source",
+        "readerUrl": "https://batcave.biz/6967-uncanny-x-men-1963.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 6967
+  },
+  {
+    "id": "batcave-35117",
+    "newsId": 35117,
+    "title": "Absolute Green Arrow (2026-)",
+    "year": 2026,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Absolute Green Arrow (2026-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/35117.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/64/2343ce61e9ab27d27908db0f62ef45.webp",
+    "sourceUrl": "https://batcave.biz/35117-absolute-green-arrow-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 35117,
+        "title": "Absolute Green Arrow (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/35117-absolute-green-arrow-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 35117
+  },
+  {
+    "id": "batcave-33450",
+    "newsId": 33450,
+    "title": "The Amazing Spider-Man (2025-)",
+    "year": 2025,
+    "publisher": "Marvel Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "The Amazing Spider-Man (2025-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/33450.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/4c/e2787495a9a21032b72312a9548e89.webp",
+    "sourceUrl": "https://batcave.biz/33450-the-amazing-spider-man-2025.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 33450,
+        "title": "The Amazing Spider-Man (2025-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33450-the-amazing-spider-man-2025.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 4.2,
+    "defaultChapterId": 33450
+  },
+  {
+    "id": "batcave-6961",
+    "newsId": 6961,
+    "title": "Batman (1940-2011)",
+    "year": 1940,
+    "publisher": "DC Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Batman (1940-2011) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/6961.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/79/2c8160b12007e8553f3562a0227ff6.webp",
+    "sourceUrl": "https://batcave.biz/6961-batman-1940.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 6961,
+        "title": "Batman (1940-2011) — BatCave Source",
+        "readerUrl": "https://batcave.biz/6961-batman-1940.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 4.3,
+    "defaultChapterId": 6961
+  },
+  {
+    "id": "batcave-33443",
+    "newsId": 33443,
+    "title": "Absolute Green Lantern (2025-)",
+    "year": 2025,
+    "publisher": "BatCave Top Rated",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Absolute Green Lantern (2025-) — indexed from BatCave (Top-rated comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/33443.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/bc/562d7ed63266784ecbe2142d33f229.webp",
+    "sourceUrl": "https://batcave.biz/33443-absolute-green-lantern-2025.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 33443,
+        "title": "Absolute Green Lantern (2025-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33443-absolute-green-lantern-2025.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 33443
+  },
+  {
+    "id": "batcave-39062",
+    "newsId": 39062,
+    "title": "Gangs of Gotham (2026-)",
+    "year": 2026,
+    "publisher": "DC Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Gangs of Gotham (2026-) — indexed from BatCave (Just added: fresh comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/39062.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/ba/5d5a42217866dc5a004fb7ddf24677.webp",
+    "sourceUrl": "https://batcave.biz/39062-gangs-of-gotham-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39062,
+        "title": "Gangs of Gotham (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39062-gangs-of-gotham-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 3.7,
+    "defaultChapterId": 39062
+  },
+  {
+    "id": "batcave-39061",
+    "newsId": 39061,
+    "title": "Predator vs. Punisher (2026-)",
+    "year": 2026,
+    "publisher": "Marvel Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Predator vs. Punisher (2026-) — indexed from BatCave (Just added: fresh comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/39061.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/b7/15ed0daf9752acfe0f55fa794ad285.webp",
+    "sourceUrl": "https://batcave.biz/39061-predator-vs-punisher-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39061,
+        "title": "Predator vs. Punisher (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39061-predator-vs-punisher-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 4.4,
+    "defaultChapterId": 39061
+  },
+  {
+    "id": "batcave-39060",
+    "newsId": 39060,
+    "title": "Godzilla vs. America: New York City (2026-)",
+    "year": 2026,
+    "publisher": "IDW",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Godzilla vs. America: New York City (2026-) — indexed from BatCave (Just added: fresh comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/39060.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/1f/1bc39b5b4fef231c48ce558e636b8a.webp",
+    "sourceUrl": "https://batcave.biz/39060-godzilla-vs-america-new-york-city-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39060,
+        "title": "Godzilla vs. America: New York City (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39060-godzilla-vs-america-new-york-city-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "rating": 5,
+    "defaultChapterId": 39060
+  },
+  {
+    "id": "batcave-39059",
+    "newsId": 39059,
+    "title": "Josie and the Pussycats: Rock On! (2026-)",
+    "year": 2026,
+    "publisher": "BatCave Fresh Release",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Josie and the Pussycats: Rock On! (2026-) — indexed from BatCave (Just added: fresh comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/39059.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/84/11f297c6d5618e29c5398f76ba4ece.webp",
+    "sourceUrl": "https://batcave.biz/39059-josie-and-the-pussycats-rock-on-2026.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39059,
+        "title": "Josie and the Pussycats: Rock On! (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39059-josie-and-the-pussycats-rock-on-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 39059
+  },
+  {
+    "id": "batcave-39063",
+    "newsId": 39063,
+    "title": "Corto Maltese: The Day of Tarowean",
+    "publisher": "BatCave Fresh Release",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Corto Maltese: The Day of Tarowean — indexed from BatCave (Just added: fresh comics). Save any reader page HTML from BatCave to unlock issues inside this vault.",
+    "poster": "/comics/covers/39063.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/c4/3b8b370b2f0a81109e07750f498492.webp",
+    "sourceUrl": "https://batcave.biz/39063-corto-maltese-taroweans-day.html",
+    "totalChapters": 1,
+    "chapters": [
+      {
+        "id": 39063,
+        "title": "Corto Maltese: The Day of Tarowean — BatCave Source",
+        "readerUrl": "https://batcave.biz/39063-corto-maltese-taroweans-day.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true,
+    "defaultChapterId": 39063
+  },
+  {
+    "id": "batcave-22518",
+    "newsId": 22518,
+    "title": "New Avengers (2004)",
+    "year": 2004,
+    "publisher": "Marvel Comics",
+    "rating": 4.6,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 2004).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/8f/04935216d97acd970dc7c2933a0d9c.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/8f/04935216d97acd970dc7c2933a0d9c.webp",
+    "sourceUrl": "https://batcave.biz/22518-new-avengers-2005.html",
+    "totalChapters": 1,
+    "defaultChapterId": 22518,
+    "chapters": [
+      {
+        "id": 22518,
+        "title": "New Avengers (2004) — BatCave Source",
+        "readerUrl": "https://batcave.biz/22518-new-avengers-2005.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-1664",
+    "newsId": 1664,
+    "title": "Detective Comics (2016-)",
+    "year": 2026,
+    "publisher": "DC Comics",
+    "rating": 4.4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (DC Comics · 2026).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/a7/b08a6fd3d478731f199dcc1fbca7b0.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/a7/b08a6fd3d478731f199dcc1fbca7b0.webp",
+    "sourceUrl": "https://batcave.biz/1664-detective-comics.html",
+    "totalChapters": 1,
+    "defaultChapterId": 1664,
+    "chapters": [
+      {
+        "id": 1664,
+        "title": "Detective Comics (2016-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/1664-detective-comics.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-2817",
+    "newsId": 2817,
+    "title": "Immortal Hulk (2018-2021)",
+    "year": 2018,
+    "publisher": "Marvel Comics",
+    "rating": 4.6,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 2018).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/5b/f8f8767c25668f84af80865409b806.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/5b/f8f8767c25668f84af80865409b806.webp",
+    "sourceUrl": "https://batcave.biz/2817-immortal-hulk.html",
+    "totalChapters": 1,
+    "defaultChapterId": 2817,
+    "chapters": [
+      {
+        "id": 2817,
+        "title": "Immortal Hulk (2018-2021) — BatCave Source",
+        "readerUrl": "https://batcave.biz/2817-immortal-hulk.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-5345",
+    "newsId": 5345,
+    "title": "Superman (2023-)",
+    "year": 2023,
+    "publisher": "DC Comics",
+    "rating": 4.3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (DC Comics · 2023).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/f7/99afa94df068e507128aefd999450c.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/f7/99afa94df068e507128aefd999450c.webp",
+    "sourceUrl": "https://batcave.biz/5345-superman.html",
+    "totalChapters": 1,
+    "defaultChapterId": 5345,
+    "chapters": [
+      {
+        "id": 5345,
+        "title": "Superman (2023-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/5345-superman.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38639",
+    "newsId": 38639,
+    "title": "DNX (2026-)",
+    "year": 2026,
+    "publisher": "Marvel Comics",
+    "rating": 3.9,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 2026).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/79/a4609ec494a714a1c20dd761087448.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/79/a4609ec494a714a1c20dd761087448.webp",
+    "sourceUrl": "https://batcave.biz/38639-dnx-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 38639,
+    "chapters": [
+      {
+        "id": 38639,
+        "title": "DNX (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/38639-dnx-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-33961",
+    "newsId": 33961,
+    "title": "The Infernal Hulk (2025-2026)",
+    "year": 2025,
+    "publisher": "Marvel Comics",
+    "rating": 4.2,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 2025).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/37/2e907aa11d44bb0840ede04aec27a1.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/37/2e907aa11d44bb0840ede04aec27a1.webp",
+    "sourceUrl": "https://batcave.biz/33961-the-infernal-hulk-2025.html",
+    "totalChapters": 1,
+    "defaultChapterId": 33961,
+    "chapters": [
+      {
+        "id": 33961,
+        "title": "The Infernal Hulk (2025-2026) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33961-the-infernal-hulk-2025.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-4873",
+    "newsId": 4873,
+    "title": "Sonic The Hedgehog (2018-)",
+    "year": 2018,
+    "publisher": "IDW Publishing",
+    "rating": 4.3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (IDW Publishing · 2018).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/b1/a02bf7412d93b55d0121eac1992557.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/b1/a02bf7412d93b55d0121eac1992557.webp",
+    "sourceUrl": "https://batcave.biz/4873-sonic-the-hedgehog.html",
+    "totalChapters": 1,
+    "defaultChapterId": 4873,
+    "chapters": [
+      {
+        "id": 4873,
+        "title": "Sonic The Hedgehog (2018-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/4873-sonic-the-hedgehog.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-3988",
+    "newsId": 3988,
+    "title": "Nightwing (2016-)",
+    "year": 2016,
+    "publisher": "DC Comics",
+    "rating": 4.3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (DC Comics · 2016).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/bb/e0e228f41f707d3dbe434bd7980466.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/bb/e0e228f41f707d3dbe434bd7980466.webp",
+    "sourceUrl": "https://batcave.biz/3988-nightwing.html",
+    "totalChapters": 1,
+    "defaultChapterId": 3988,
+    "chapters": [
+      {
+        "id": 3988,
+        "title": "Nightwing (2016-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/3988-nightwing.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-12303",
+    "newsId": 12303,
+    "title": "Crossed: Wish You Were Here - Volume 4",
+    "year": 2013,
+    "publisher": "Avatar Press",
+    "rating": 4.2,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Avatar Press · 2013).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/b4/341ae6947a3d9d836e5f974231cef8.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/b4/341ae6947a3d9d836e5f974231cef8.webp",
+    "sourceUrl": "https://batcave.biz/12303-crossed-wish-you-were-here-volume-4.html",
+    "totalChapters": 1,
+    "defaultChapterId": 12303,
+    "chapters": [
+      {
+        "id": 12303,
+        "title": "Crossed: Wish You Were Here - Volume 4 — BatCave Source",
+        "readerUrl": "https://batcave.biz/12303-crossed-wish-you-were-here-volume-4.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-12301",
+    "newsId": 12301,
+    "title": "Crossed: Wish You Were Here - Volume 2",
+    "year": 2012,
+    "publisher": "Avatar Press",
+    "rating": 4.2,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Avatar Press · 2012).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/6c/ae36d783f826d894add3bd14eb8b0c.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/6c/ae36d783f826d894add3bd14eb8b0c.webp",
+    "sourceUrl": "https://batcave.biz/12301-crossed-wish-you-were-here-volume-2.html",
+    "totalChapters": 1,
+    "defaultChapterId": 12301,
+    "chapters": [
+      {
+        "id": 12301,
+        "title": "Crossed: Wish You Were Here - Volume 2 — BatCave Source",
+        "readerUrl": "https://batcave.biz/12301-crossed-wish-you-were-here-volume-2.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-33717",
+    "newsId": 33717,
+    "title": "Black Cat (2025-)",
+    "year": 2025,
+    "publisher": "Marvel Comics",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 2025).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/e2/1b18b1acf5dad85d3ab6852290d31f.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/e2/1b18b1acf5dad85d3ab6852290d31f.webp",
+    "sourceUrl": "https://batcave.biz/33717-black-cat-2025.html",
+    "totalChapters": 1,
+    "defaultChapterId": 33717,
+    "chapters": [
+      {
+        "id": 33717,
+        "title": "Black Cat (2025-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/33717-black-cat-2025.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-39011",
+    "newsId": 39011,
+    "title": "The Avengers (2026-)",
+    "year": 2026,
+    "publisher": "Marvel Comics",
+    "rating": 4.5,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 2026).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/fc/53d99789e0d38be798852a1b05e776.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/fc/53d99789e0d38be798852a1b05e776.webp",
+    "sourceUrl": "https://batcave.biz/39011-the-avengers-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 39011,
+    "chapters": [
+      {
+        "id": 39011,
+        "title": "The Avengers (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39011-the-avengers-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-28272",
+    "newsId": 28272,
+    "title": "The Incredible Hulk (1968-2010)",
+    "year": 1968,
+    "publisher": "Marvel Comics",
+    "rating": 4.3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 1968).",
+    "poster": "https://batcave.biz/uploads/mini/142x212/fd/e237f74151f485e0e4d0af4ebcf6d9.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/142x212/fd/e237f74151f485e0e4d0af4ebcf6d9.webp",
+    "sourceUrl": "https://batcave.biz/28272-the-incredible-hulk-1968-2010.html",
+    "totalChapters": 1,
+    "defaultChapterId": 28272,
+    "chapters": [
+      {
+        "id": 28272,
+        "title": "The Incredible Hulk (1968-2010) — BatCave Source",
+        "readerUrl": "https://batcave.biz/28272-the-incredible-hulk-1968-2010.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-39036",
+    "newsId": 39036,
+    "title": "Gangs of Gotham (2026-)",
+    "year": 2026,
+    "publisher": "DC Comics",
+    "rating": 4.5,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (DC Comics · 2026).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/fa/fe51992080804ec059bba34382319f.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/fa/fe51992080804ec059bba34382319f.webp",
+    "sourceUrl": "https://batcave.biz/39036-gangs-of-gotham.html",
+    "totalChapters": 1,
+    "defaultChapterId": 39036,
+    "chapters": [
+      {
+        "id": 39036,
+        "title": "Gangs of Gotham (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39036-gangs-of-gotham.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-39043",
+    "newsId": 39043,
+    "title": "Poison Ivy in Briarwood (2026-)",
+    "year": 2026,
+    "publisher": "DC Comics",
+    "rating": 3.1,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (DC Comics · 2026).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/99/48d6bbf60e4f3d0e5cb543d6800c9d.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/99/48d6bbf60e4f3d0e5cb543d6800c9d.webp",
+    "sourceUrl": "https://batcave.biz/39043-poison-ivy-in-briarwood-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 39043,
+    "chapters": [
+      {
+        "id": 39043,
+        "title": "Poison Ivy in Briarwood (2026-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/39043-poison-ivy-in-briarwood-2026.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-39052",
+    "newsId": 39052,
+    "title": "Frank Herbert’s Dune Messiah - The Graphic Novel",
+    "year": 2026,
+    "publisher": "Abrams",
+    "rating": 5,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Abrams · 2026).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/79/c72bff769879fc31eea724f33a0074.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/79/c72bff769879fc31eea724f33a0074.webp",
+    "sourceUrl": "https://batcave.biz/39052-frank-herberts-dune-messiah-the-graphic-novel.html",
+    "totalChapters": 1,
+    "defaultChapterId": 39052,
+    "chapters": [
+      {
+        "id": 39052,
+        "title": "Frank Herbert’s Dune Messiah - The Graphic Novel — BatCave Source",
+        "readerUrl": "https://batcave.biz/39052-frank-herberts-dune-messiah-the-graphic-novel.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-39040",
+    "newsId": 39040,
+    "title": "The Sensational She-Hulk by John Byrne Omnibus",
+    "year": 2020,
+    "publisher": "Marvel Comics",
+    "rating": 5,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Marvel Comics · 2020).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/ed/765882a3b4665c62bc158007764666.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/ed/765882a3b4665c62bc158007764666.webp",
+    "sourceUrl": "https://batcave.biz/39040-the-sensational-she-hulk-by-john-byrne-omnibus.html",
+    "totalChapters": 1,
+    "defaultChapterId": 39040,
+    "chapters": [
+      {
+        "id": 39040,
+        "title": "The Sensational She-Hulk by John Byrne Omnibus — BatCave Source",
+        "readerUrl": "https://batcave.biz/39040-the-sensational-she-hulk-by-john-byrne-omnibus.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-8838",
+    "newsId": 8838,
+    "title": "The Flash Annual",
+    "year": 1987,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4.3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 1987).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/9a/42b4314217b94dc60176fdb1aa6386.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/9a/42b4314217b94dc60176fdb1aa6386.webp",
+    "sourceUrl": "https://batcave.biz/8838-the-flash-annual.html",
+    "totalChapters": 1,
+    "defaultChapterId": 8838,
+    "chapters": [
+      {
+        "id": 8838,
+        "title": "The Flash Annual — BatCave Source",
+        "readerUrl": "https://batcave.biz/8838-the-flash-annual.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-1307",
+    "newsId": 1307,
+    "title": "Cosmo: The Mighty Martian (2019-)",
+    "year": 2019,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 2.5,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2019).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/d4/6ccf50a2b4279e076bed68ea878653.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/d4/6ccf50a2b4279e076bed68ea878653.webp",
+    "sourceUrl": "https://batcave.biz/1307-cosmo-the-mighty-martian.html",
+    "totalChapters": 1,
+    "defaultChapterId": 1307,
+    "chapters": [
+      {
+        "id": 1307,
+        "title": "Cosmo: The Mighty Martian (2019-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/1307-cosmo-the-mighty-martian.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-24640",
+    "newsId": 24640,
+    "title": "Sad Sack (1949-1982)",
+    "year": 1949,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 3.4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 1949).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/80/6511577a70cc8a5ff6b68cd42af652.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/80/6511577a70cc8a5ff6b68cd42af652.webp",
+    "sourceUrl": "https://batcave.biz/24640-sad-sack-1949-1982.html",
+    "totalChapters": 1,
+    "defaultChapterId": 24640,
+    "chapters": [
+      {
+        "id": 24640,
+        "title": "Sad Sack (1949-1982) — BatCave Source",
+        "readerUrl": "https://batcave.biz/24640-sad-sack-1949-1982.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-7205",
+    "newsId": 7205,
+    "title": "A Town Called Dragon",
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/d6/80c09775a5b7f5447b8dd004514862.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/d6/80c09775a5b7f5447b8dd004514862.webp",
+    "sourceUrl": "https://batcave.biz/7205-a-town-called-dragon.html",
+    "totalChapters": 1,
+    "defaultChapterId": 7205,
+    "chapters": [
+      {
+        "id": 7205,
+        "title": "A Town Called Dragon — BatCave Source",
+        "readerUrl": "https://batcave.biz/7205-a-town-called-dragon.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-880",
+    "newsId": 880,
+    "title": "Black Crown Quarterly (2017)",
+    "year": 2017,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2017).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/b6/b8c9b5c72b7ae4fcb77bd2ab2c7d00.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/b6/b8c9b5c72b7ae4fcb77bd2ab2c7d00.webp",
+    "sourceUrl": "https://batcave.biz/880-black-crown-quarterly.html",
+    "totalChapters": 1,
+    "defaultChapterId": 880,
+    "chapters": [
+      {
+        "id": 880,
+        "title": "Black Crown Quarterly (2017) — BatCave Source",
+        "readerUrl": "https://batcave.biz/880-black-crown-quarterly.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-23102",
+    "newsId": 23102,
+    "title": "Outsiders: Five of a Kind (2007-)",
+    "year": 2007,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4.8,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 2007).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/eb/db533b3f3af19d2b540aecbdbd72a8.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/eb/db533b3f3af19d2b540aecbdbd72a8.webp",
+    "sourceUrl": "https://batcave.biz/23102-outsiders-five-of-a-kind-2007.html",
+    "totalChapters": 1,
+    "defaultChapterId": 23102,
+    "chapters": [
+      {
+        "id": 23102,
+        "title": "Outsiders: Five of a Kind (2007-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/23102-outsiders-five-of-a-kind-2007.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-6299",
+    "newsId": 6299,
+    "title": "Trve Kvlt (2022-)",
+    "year": 2022,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 4.5,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2022).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/5a/d38cddeb22b83f5f335be7f2979891.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/5a/d38cddeb22b83f5f335be7f2979891.webp",
+    "sourceUrl": "https://batcave.biz/6299-trve-kvlt-2022.html",
+    "totalChapters": 1,
+    "defaultChapterId": 6299,
+    "chapters": [
+      {
+        "id": 6299,
+        "title": "Trve Kvlt (2022-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/6299-trve-kvlt-2022.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-137",
+    "newsId": 137,
+    "title": "Age Of Conan: Belit, Queen Of The Black Coast (2019)",
+    "year": 2019,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 4.5,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2019).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/28/e7a1fd31dbc0d37f0e1f4d6f06c9af.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/28/e7a1fd31dbc0d37f0e1f4d6f06c9af.webp",
+    "sourceUrl": "https://batcave.biz/137-age-of-conan-belit,-queen-of-the-black-coast.html",
+    "totalChapters": 1,
+    "defaultChapterId": 137,
+    "chapters": [
+      {
+        "id": 137,
+        "title": "Age Of Conan: Belit, Queen Of The Black Coast (2019) — BatCave Source",
+        "readerUrl": "https://batcave.biz/137-age-of-conan-belit,-queen-of-the-black-coast.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-21251",
+    "newsId": 21251,
+    "title": "Marvel Two-In-One Epic Collection: Cry Monster",
+    "year": 2018,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4.3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 2018).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/10/912b42a13498c3e31fee82881bd38f.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/10/912b42a13498c3e31fee82881bd38f.webp",
+    "sourceUrl": "https://batcave.biz/21251-marvel-two-in-one-epic-collection-cry-monster.html",
+    "totalChapters": 1,
+    "defaultChapterId": 21251,
+    "chapters": [
+      {
+        "id": 21251,
+        "title": "Marvel Two-In-One Epic Collection: Cry Monster — BatCave Source",
+        "readerUrl": "https://batcave.biz/21251-marvel-two-in-one-epic-collection-cry-monster.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-5707",
+    "newsId": 5707,
+    "title": "The Electric Black Presents (2021-)",
+    "year": 2021,
+    "publisher": "BatCave Archive",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (2021).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/00/a61469b8d52c84421b12e15d815320.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/00/a61469b8d52c84421b12e15d815320.webp",
+    "sourceUrl": "https://batcave.biz/5707-the-electric-black-presents-2021.html",
+    "totalChapters": 1,
+    "defaultChapterId": 5707,
+    "chapters": [
+      {
+        "id": 5707,
+        "title": "The Electric Black Presents (2021-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/5707-the-electric-black-presents-2021.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-37495",
+    "newsId": 37495,
+    "title": "Yankee Comics (1941)",
+    "year": 1941,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 1941).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/47/402c2c0591b0175a53c2d4f5277559.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/47/402c2c0591b0175a53c2d4f5277559.webp",
+    "sourceUrl": "https://batcave.biz/37495-yankee-comics-1941.html",
+    "totalChapters": 1,
+    "defaultChapterId": 37495,
+    "chapters": [
+      {
+        "id": 37495,
+        "title": "Yankee Comics (1941) — BatCave Source",
+        "readerUrl": "https://batcave.biz/37495-yankee-comics-1941.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-19523",
+    "newsId": 19523,
+    "title": "Kaijumax: Season Four",
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/3c/3c29aa23f477aae9d973e7196ec889.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/3c/3c29aa23f477aae9d973e7196ec889.webp",
+    "sourceUrl": "https://batcave.biz/19523-kaijumax-season-four.html",
+    "totalChapters": 1,
+    "defaultChapterId": 19523,
+    "chapters": [
+      {
+        "id": 19523,
+        "title": "Kaijumax: Season Four — BatCave Source",
+        "readerUrl": "https://batcave.biz/19523-kaijumax-season-four.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-5035",
+    "newsId": 5035,
+    "title": "Star Trek: Discovery: Succession (2018-)",
+    "year": 2018,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2018).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/5b/0f3d83fbc3e0db803f108d6f907a4d.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/5b/0f3d83fbc3e0db803f108d6f907a4d.webp",
+    "sourceUrl": "https://batcave.biz/5035-star-trek-discovery-succession.html",
+    "totalChapters": 1,
+    "defaultChapterId": 5035,
+    "chapters": [
+      {
+        "id": 5035,
+        "title": "Star Trek: Discovery: Succession (2018-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/5035-star-trek-discovery-succession.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-36445",
+    "newsId": 36445,
+    "title": "Revealing Romances (1949)",
+    "year": 1949,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 2,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 1949).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/58/18b2ebff160099b9e27268f9b4ef61.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/58/18b2ebff160099b9e27268f9b4ef61.webp",
+    "sourceUrl": "https://batcave.biz/36445-revealing-romances-1949.html",
+    "totalChapters": 1,
+    "defaultChapterId": 36445,
+    "chapters": [
+      {
+        "id": 36445,
+        "title": "Revealing Romances (1949) — BatCave Source",
+        "readerUrl": "https://batcave.biz/36445-revealing-romances-1949.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-17932",
+    "newsId": 17932,
+    "title": "Star Trek: The Next Generation (1988)",
+    "year": 1988,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 1988).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/8e/c2b4db1e6685a17a54065b8e2300ad.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/8e/c2b4db1e6685a17a54065b8e2300ad.webp",
+    "sourceUrl": "https://batcave.biz/17932-star-trek-the-next-generation-1988.html",
+    "totalChapters": 1,
+    "defaultChapterId": 17932,
+    "chapters": [
+      {
+        "id": 17932,
+        "title": "Star Trek: The Next Generation (1988) — BatCave Source",
+        "readerUrl": "https://batcave.biz/17932-star-trek-the-next-generation-1988.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-4548",
+    "newsId": 4548,
+    "title": "Rock Candy Mountain (2017)",
+    "year": 2017,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 4.4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2017).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/e1/de6ec062e8d6c050669b4153387fc4.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/e1/de6ec062e8d6c050669b4153387fc4.webp",
+    "sourceUrl": "https://batcave.biz/4548-rock-candy-mountain.html",
+    "totalChapters": 1,
+    "defaultChapterId": 4548,
+    "chapters": [
+      {
+        "id": 4548,
+        "title": "Rock Candy Mountain (2017) — BatCave Source",
+        "readerUrl": "https://batcave.biz/4548-rock-candy-mountain.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-35591",
+    "newsId": 35591,
+    "title": "Hugh O'Brian, Famous Marshal Wyatt Earp (1957)",
+    "year": 1957,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 1957).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/1f/6988650c52cad600a2bb174e429e30.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/1f/6988650c52cad600a2bb174e429e30.webp",
+    "sourceUrl": "https://batcave.biz/35591-hugh-obrian-famous-marshal-wyatt-earp-1957.html",
+    "totalChapters": 1,
+    "defaultChapterId": 35591,
+    "chapters": [
+      {
+        "id": 35591,
+        "title": "Hugh O'Brian, Famous Marshal Wyatt Earp (1957) — BatCave Source",
+        "readerUrl": "https://batcave.biz/35591-hugh-obrian-famous-marshal-wyatt-earp-1957.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-16318",
+    "newsId": 16318,
+    "title": "Grimm Fairy Tales presents Ascension",
+    "year": 2014,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 3,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 2014).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/eb/d5293d4e2c3297580b1ccc591c0046.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/eb/d5293d4e2c3297580b1ccc591c0046.webp",
+    "sourceUrl": "https://batcave.biz/16318-grimm-fairy-tales-presents-ascension.html",
+    "totalChapters": 1,
+    "defaultChapterId": 16318,
+    "chapters": [
+      {
+        "id": 16318,
+        "title": "Grimm Fairy Tales presents Ascension — BatCave Source",
+        "readerUrl": "https://batcave.biz/16318-grimm-fairy-tales-presents-ascension.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-4104",
+    "newsId": 4104,
+    "title": "Orphan Black: Deviations (2017)",
+    "year": 2017,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2017).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/b3/c2300f6cda47c0d6c505a93c721756.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/b3/c2300f6cda47c0d6c505a93c721756.webp",
+    "sourceUrl": "https://batcave.biz/4104-orphan-black-deviations.html",
+    "totalChapters": 1,
+    "defaultChapterId": 4104,
+    "chapters": [
+      {
+        "id": 4104,
+        "title": "Orphan Black: Deviations (2017) — BatCave Source",
+        "readerUrl": "https://batcave.biz/4104-orphan-black-deviations.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-34792",
+    "newsId": 34792,
+    "title": "Black & White (1994-1995)",
+    "year": 1994,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 1994).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/4c/a6fa6f372f5c41705f19b1c0c9f9c2.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/4c/a6fa6f372f5c41705f19b1c0c9f9c2.webp",
+    "sourceUrl": "https://batcave.biz/34792-black-white-1994-1995.html",
+    "totalChapters": 1,
+    "defaultChapterId": 34792,
+    "chapters": [
+      {
+        "id": 34792,
+        "title": "Black & White (1994-1995) — BatCave Source",
+        "readerUrl": "https://batcave.biz/34792-black-white-1994-1995.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-14907",
+    "newsId": 14907,
+    "title": "Fawcett's Funny Animals",
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/14/7673db343f8c15bdca957cf2efd13f.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/14/7673db343f8c15bdca957cf2efd13f.webp",
+    "sourceUrl": "https://batcave.biz/14907-fawcetts-funny-animals.html",
+    "totalChapters": 1,
+    "defaultChapterId": 14907,
+    "chapters": [
+      {
+        "id": 14907,
+        "title": "Fawcett's Funny Animals — BatCave Source",
+        "readerUrl": "https://batcave.biz/14907-fawcetts-funny-animals.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-3670",
+    "newsId": 3670,
+    "title": "Maskerade (2022-)",
+    "year": 2022,
+    "publisher": "BatCave Archive",
+    "status": "Ongoing",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Ongoing · 2022).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/50/386210313dc3fa43d27a32217bfffb.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/50/386210313dc3fa43d27a32217bfffb.webp",
+    "sourceUrl": "https://batcave.biz/3670-maskerade.html",
+    "totalChapters": 1,
+    "defaultChapterId": 3670,
+    "chapters": [
+      {
+        "id": 3670,
+        "title": "Maskerade (2022-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/3670-maskerade.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-32736",
+    "newsId": 32736,
+    "title": "Beyond the Pale (2024-)",
+    "year": 2024,
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed · 2024).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/9c/5a0b3552405dfa5727acf6ae8d7443.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/9c/5a0b3552405dfa5727acf6ae8d7443.webp",
+    "sourceUrl": "https://batcave.biz/32736-beyond-the-pale-2024.html",
+    "totalChapters": 1,
+    "defaultChapterId": 32736,
+    "chapters": [
+      {
+        "id": 32736,
+        "title": "Beyond the Pale (2024-) — BatCave Source",
+        "readerUrl": "https://batcave.biz/32736-beyond-the-pale-2024.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-13420",
+    "newsId": 13420,
+    "title": "Devil Dinosaur Infinity Comic",
+    "publisher": "BatCave Archive",
+    "status": "Completed",
+    "rating": 4,
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Indexed from BatCave.biz (Completed).",
+    "poster": "https://batcave.biz/uploads/mini/131x196/30/ad1b00c572866ae4b4b44e69f3dbe0.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/131x196/30/ad1b00c572866ae4b4b44e69f3dbe0.webp",
+    "sourceUrl": "https://batcave.biz/13420-devil-dinosaur-infinity-comic.html",
+    "totalChapters": 1,
+    "defaultChapterId": 13420,
+    "chapters": [
+      {
+        "id": 13420,
+        "title": "Devil Dinosaur Infinity Comic — BatCave Source",
+        "readerUrl": "https://batcave.biz/13420-devil-dinosaur-infinity-comic.html",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38480",
+    "newsId": 38480,
+    "title": "The Cimmerian: Xuthal of the Dusk (2026-)",
+    "year": 2026,
+    "publisher": "Ablaze",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: The Cimmerian: Xuthal of the Dusk (2026-) #2 (14.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/72/8bc56c3c68004b9173755058e5138c.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/72/8bc56c3c68004b9173755058e5138c.webp",
+    "sourceUrl": "https://batcave.biz/38480-the-cimmerian-xuthal-of-the-dusk-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278126,
+    "chapters": [
+      {
+        "id": 278126,
+        "title": "The Cimmerian: Xuthal of the Dusk (2026-) #2",
+        "readerUrl": "https://batcave.biz/reader/38480/278126",
+        "date": "14.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-3476",
+    "newsId": 3476,
+    "title": "MAD Magazine (2018-)",
+    "year": 2018,
+    "publisher": "DC Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: MAD Magazine (2018-) #602 (14.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/02/ac29cc0ef120a0f9b771ec6006355b.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/02/ac29cc0ef120a0f9b771ec6006355b.webp",
+    "sourceUrl": "https://batcave.biz/3476-mad-magazine.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278125,
+    "chapters": [
+      {
+        "id": 278125,
+        "title": "MAD Magazine (2018-) #602",
+        "readerUrl": "https://batcave.biz/reader/3476/278125",
+        "date": "14.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-32649",
+    "newsId": 32649,
+    "title": "Dick Tracy (2024-)",
+    "year": 2024,
+    "publisher": "Mad Cave Studios",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Dick Tracy (2024-) #Veterans Day Special (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/2b/a5e6a0f076c6cd40414815a5c7cfc8.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/2b/a5e6a0f076c6cd40414815a5c7cfc8.webp",
+    "sourceUrl": "https://batcave.biz/32649-dick-tracy-2024.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278116,
+    "chapters": [
+      {
+        "id": 278116,
+        "title": "Dick Tracy (2024-) #Veterans Day Special",
+        "readerUrl": "https://batcave.biz/reader/32649/278116",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38823",
+    "newsId": 38823,
+    "title": "Pop Kill: Big Candy (2026-)",
+    "year": 2026,
+    "publisher": "Mad Cave",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Pop Kill: Big Candy (2026-) #2 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/6e/ae3407b17884fdfa8a125550b3d70c.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/6e/ae3407b17884fdfa8a125550b3d70c.webp",
+    "sourceUrl": "https://batcave.biz/38823-pop-kill-big-candy-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278115,
+    "chapters": [
+      {
+        "id": 278115,
+        "title": "Pop Kill: Big Candy (2026-) #2",
+        "readerUrl": "https://batcave.biz/reader/38823/278115",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-33683",
+    "newsId": 33683,
+    "title": "Speed Racer (2025-)",
+    "year": 2025,
+    "publisher": "Mad Cave Studios",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Speed Racer (2025-) #11 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/67/f0da2fe146958beb35565496e17b25.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/67/f0da2fe146958beb35565496e17b25.webp",
+    "sourceUrl": "https://batcave.biz/33683-speed-racer-2025.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278114,
+    "chapters": [
+      {
+        "id": 278114,
+        "title": "Speed Racer (2025-) #11",
+        "readerUrl": "https://batcave.biz/reader/33683/278114",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38352",
+    "newsId": 38352,
+    "title": "The Dirt Beneath the Devil (2026)",
+    "year": 2026,
+    "publisher": "Mad Cave",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: The Dirt Beneath the Devil (2026-) #4 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/ce/d85b83edd1a896441c6ba530875bc0.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/ce/d85b83edd1a896441c6ba530875bc0.webp",
+    "sourceUrl": "https://batcave.biz/38352-the-dirt-beneath-the-devil-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278113,
+    "chapters": [
+      {
+        "id": 278113,
+        "title": "The Dirt Beneath the Devil (2026-) #4",
+        "readerUrl": "https://batcave.biz/reader/38352/278113",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38812",
+    "newsId": 38812,
+    "title": "Avengelyne (2026-)",
+    "year": 2026,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Avengelyne (2026-) #2 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/10/a216f64fe9882abba6b79b0f28e47e.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/10/a216f64fe9882abba6b79b0f28e47e.webp",
+    "sourceUrl": "https://batcave.biz/38812-avengelyne-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278111,
+    "chapters": [
+      {
+        "id": 278111,
+        "title": "Avengelyne (2026-) #2",
+        "readerUrl": "https://batcave.biz/reader/38812/278111",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38194",
+    "newsId": 38194,
+    "title": "Badrock (2026-)",
+    "year": 2026,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Badrock (2026-) #4 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/0f/fdbf0ec4a15a47f9ee08d3c55f22e0.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/0f/fdbf0ec4a15a47f9ee08d3c55f22e0.webp",
+    "sourceUrl": "https://batcave.biz/38194-badrock-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278110,
+    "chapters": [
+      {
+        "id": 278110,
+        "title": "Badrock (2026-) #4",
+        "readerUrl": "https://batcave.biz/reader/38194/278110",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-33516",
+    "newsId": 33516,
+    "title": "Blood and Thunder (2025-)",
+    "year": 2025,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Blood and Thunder (2025-) #19 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/6f/8ce78efecdb49895677a49cabf2c38.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/6f/8ce78efecdb49895677a49cabf2c38.webp",
+    "sourceUrl": "https://batcave.biz/33516-blood-and-thunder-2025.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278109,
+    "chapters": [
+      {
+        "id": 278109,
+        "title": "Blood and Thunder (2025-) #19",
+        "readerUrl": "https://batcave.biz/reader/33516/278109",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38521",
+    "newsId": 38521,
+    "title": "Chachu (2026-)",
+    "year": 2026,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Chachu (2026-) #4 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/15/5551f40de6db16be3342b462382b73.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/15/5551f40de6db16be3342b462382b73.webp",
+    "sourceUrl": "https://batcave.biz/38521-chachu-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278108,
+    "chapters": [
+      {
+        "id": 278108,
+        "title": "Chachu (2026-) #4",
+        "readerUrl": "https://batcave.biz/reader/38521/278108",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-33727",
+    "newsId": 33727,
+    "title": "Escape (2025-)",
+    "year": 2025,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Escape (2025-) #10 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/4d/d6b1f719144484553ebc42564473d6.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/4d/d6b1f719144484553ebc42564473d6.webp",
+    "sourceUrl": "https://batcave.biz/33727-escape-2025.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278107,
+    "chapters": [
+      {
+        "id": 278107,
+        "title": "Escape (2025-) #10",
+        "readerUrl": "https://batcave.biz/reader/33727/278107",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-37178",
+    "newsId": 37178,
+    "title": "Skate Ali (2026-)",
+    "year": 2026,
+    "publisher": "Dark Horse Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Skate Ali (2026-) #5 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/7d/42334f1bfe2349ff9ce6d1a1776f75.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/7d/42334f1bfe2349ff9ce6d1a1776f75.webp",
+    "sourceUrl": "https://batcave.biz/37178-skate-ali-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278105,
+    "chapters": [
+      {
+        "id": 278105,
+        "title": "Skate Ali (2026-) #5",
+        "readerUrl": "https://batcave.biz/reader/37178/278105",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38606",
+    "newsId": 38606,
+    "title": "Spawn 77 (2026-)",
+    "year": 2026,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Spawn 77 (2026-) #3 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/24/0a991d6be9717bc827217ad07699db.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/24/0a991d6be9717bc827217ad07699db.webp",
+    "sourceUrl": "https://batcave.biz/38606-spawn-77-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278104,
+    "chapters": [
+      {
+        "id": 278104,
+        "title": "Spawn 77 (2026-) #3",
+        "readerUrl": "https://batcave.biz/reader/38606/278104",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-4908",
+    "newsId": 4908,
+    "title": "Spawn (1992-)",
+    "year": 1992,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Spawn (1992-) #380 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/21/96fdd564ea1b73c7fb3c7f5be8d496.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/21/96fdd564ea1b73c7fb3c7f5be8d496.webp",
+    "sourceUrl": "https://batcave.biz/4908-spawn.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278103,
+    "chapters": [
+      {
+        "id": 278103,
+        "title": "Spawn (1992-) #380",
+        "readerUrl": "https://batcave.biz/reader/4908/278103",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-32958",
+    "newsId": 32958,
+    "title": "Universal Monsters: Frankenstein (2024-)",
+    "year": 2024,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Universal Monsters: Frankenstein (2024-) #Black & White Special #2 (13.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/b2/c5d4f9faa540bf46f5fbb49d88f20f.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/b2/c5d4f9faa540bf46f5fbb49d88f20f.webp",
+    "sourceUrl": "https://batcave.biz/32958-universal-monsters-frankenstein-2024.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278101,
+    "chapters": [
+      {
+        "id": 278101,
+        "title": "Universal Monsters: Frankenstein (2024-) #Black & White Special #2",
+        "readerUrl": "https://batcave.biz/reader/32958/278101",
+        "date": "13.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-33940",
+    "newsId": 33940,
+    "title": "American Caper (2025-)",
+    "year": 2025,
+    "publisher": "Dark Horse Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: American Caper (2025-) #12 (12.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/4d/8019dc12eacfe2701314bcff4d1221.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/4d/8019dc12eacfe2701314bcff4d1221.webp",
+    "sourceUrl": "https://batcave.biz/33940-american-caper-2025.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278080,
+    "chapters": [
+      {
+        "id": 278080,
+        "title": "American Caper (2025-) #12",
+        "readerUrl": "https://batcave.biz/reader/33940/278080",
+        "date": "12.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-2173",
+    "newsId": 2173,
+    "title": "G.I. Joe: A Real American Hero (2011-)",
+    "year": 2011,
+    "publisher": "IDW Publishing",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: G.I. Joe: A Real American Hero (2011-) #334 (12.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/b0/f65fdba7b3b70148fd07ed075892f9.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/b0/f65fdba7b3b70148fd07ed075892f9.webp",
+    "sourceUrl": "https://batcave.biz/2173-gi-joe-a-real-american-hero.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278078,
+    "chapters": [
+      {
+        "id": 278078,
+        "title": "G.I. Joe: A Real American Hero (2011-) #334",
+        "readerUrl": "https://batcave.biz/reader/2173/278078",
+        "date": "12.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-33812",
+    "newsId": 33812,
+    "title": "He-Man and the Masters of the Universe: The Sword of Flaws (2025-)",
+    "year": 2025,
+    "publisher": "Image Comics",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: He-Man and the Masters of the Universe: The Sword of Flaws (2025-) #7 (12.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/27/94a9bf058267e5ab28688b30e37321.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/27/94a9bf058267e5ab28688b30e37321.webp",
+    "sourceUrl": "https://batcave.biz/33812-he-man-and-the-masters-of-the-universe-the-sword-of-flaws-2025.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278077,
+    "chapters": [
+      {
+        "id": 278077,
+        "title": "He-Man and the Masters of the Universe: The Sword of Flaws (2025-) #7",
+        "readerUrl": "https://batcave.biz/reader/33812/278077",
+        "date": "12.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  },
+  {
+    "id": "batcave-38750",
+    "newsId": 38750,
+    "title": "Hillbilly: The Treason of Twelve-Toe Maggie (2026-)",
+    "year": 2026,
+    "publisher": "Dark Horse",
+    "authors": [],
+    "artists": [],
+    "genres": [
+      "Comics"
+    ],
+    "synopsis": "Latest indexed release: Hillbilly: The Treason of Twelve-Toe Maggie (2026-) #2 (12.11.2026).",
+    "poster": "https://batcave.biz/uploads/mini/64x96/b0/b74215c9f3a992367831c9397c0858.webp",
+    "remotePoster": "https://batcave.biz/uploads/mini/64x96/b0/b74215c9f3a992367831c9397c0858.webp",
+    "sourceUrl": "https://batcave.biz/38750-hillbilly-the-treason-of-twelve-toe-maggie-2026.html",
+    "totalChapters": 1,
+    "defaultChapterId": 278076,
+    "chapters": [
+      {
+        "id": 278076,
+        "title": "Hillbilly: The Treason of Twelve-Toe Maggie (2026-) #2",
+        "readerUrl": "https://batcave.biz/reader/38750/278076",
+        "date": "12.11.2026",
+        "hasLocalPages": false
+      }
+    ],
+    "imported": true
+  }
+]

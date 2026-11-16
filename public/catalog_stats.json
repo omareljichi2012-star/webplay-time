@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "totalPlatforms": 17,
+  "totalGames": 15221,
+  "platformCounts": {
+    "NES": 1444,
+    "SNES": 1235,
+    "Game Boy": 952,
+    "Game Boy Color": 1026,
+    "GBA": 1394,
+    "N64": 527,
+    "PS1": 2070,
+    "Sega Genesis": 1258,
+    "Master System": 645,
+    "Game Gear": 498,
+    "Sega 32X": 58,
+    "Sega CD": 1000,
+    "Sega Saturn": 576,
+    "Atari 2600": 890,
+    "Atari 7800": 80,
+    "MS-DOS": 891,
+    "PSP": 677
+  },
+  "pspStatus": "coming_soon",
+  "ps2Status": "omitted_unsupported"
+}

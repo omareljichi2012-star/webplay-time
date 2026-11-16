@@ -1,0 +1,6 @@
+{
+  "name": "WebPlay Time",
+  "description": "Retro gaming arcade portal with playable classic games, ROM runner, live playtime tracker, and controller support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

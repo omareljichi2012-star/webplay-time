@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EmulatorJS Host</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #000000;
+    }
+    #emulator-container {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="emulator-container"></div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const romUrl = params.get('rom');
+    const system = (params.get('system') || 'nes').toLowerCase();
+
+    if (romUrl) {
+      window.EJS_player = '#emulator-container';
+      window.EJS_gameUrl = romUrl;
+      window.EJS_pathtodata = 'https://cdn.emulatorjs.org/stable/data/';
+      window.EJS_startOnLoaded = true;
+
+      let core = 'gba';
+      if (system.includes('nes')) core = 'fceumm';
+      else if (system.includes('snes')) core = 'snes9x';
+      else if (system.includes('gb') || system.includes('game boy') || system.includes('gbc')) core = 'gambatte';
+      else if (system.includes('gba')) core = 'mgba';
+      else if (system.includes('genesis') || system.includes('megadrive') || system.includes('sega')) core = 'segaMD';
+      else if (system.includes('n64')) core = 'n64';
+      else if (system.includes('ps1') || system.includes('psx')) core = 'psx';
+      else if (system.includes('nds')) core = 'nds';
+      else if (system.includes('atari2600')) core = 'stella';
+      else core = system;
+
+      window.EJS_core = core;
+
+      const script = document.createElement('script');
+      script.src = 'https://cdn.emulatorjs.org/stable/data/loader.js';
+      document.body.appendChild(script);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cross-Origin-Opener-Policy = "same-origin"
+    Cross-Origin-Embedder-Policy = "credentialless"
+    Cross-Origin-Resource-Policy = "cross-origin"
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, HEAD, OPTIONS"
+    Access-Control-Allow-Headers = "*"
+    Service-Worker-Allowed = "/"
+
+[[headers]]
+  for = "/coi-serviceworker.js"
+  [headers.values]
+    Service-Worker-Allowed = "/"
+    Content-Type = "text/javascript"
+    Cross-Origin-Opener-Policy = "same-origin"
+    Cross-Origin-Embedder-Policy = "credentialless"
+    Cross-Origin-Resource-Policy = "cross-origin"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/scph5501.bin"
+  [headers.values]
+    Cross-Origin-Resource-Policy = "cross-origin"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Cross-Origin-Resource-Policy = "cross-origin"
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/json"

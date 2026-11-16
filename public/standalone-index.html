@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WASM Arcade Player | GTA V WebAssembly Engine</title>
+
+    <!-- Embedded Cross-Origin Isolation & SharedArrayBuffer Service Worker (coi-serviceworker) -->
+    <script>
+    /*! coi-serviceworker v0.1.7 - Guido Zuidhof, MIT */
+    if(typeof window==='undefined'){
+        self.addEventListener("install",()=>self.skipWaiting());
+        self.addEventListener("activate",e=>e.waitUntil(self.clients.claim()));
+        self.addEventListener("fetch",function(e){
+            if(e.request.cache==="only-if-cached"&&e.request.mode!=="same-origin")return;
+            e.respondWith(fetch(e.request).then(r=>{
+                if(r.status===0)return r;
+                const h=new Headers(r.headers);
+                h.set("Cross-Origin-Embedder-Policy","credentialless");
+                h.set("Cross-Origin-Opener-Policy","same-origin");
+                h.set("Cross-Origin-Resource-Policy","cross-origin");
+                return new Response(r.body,{status:r.status,statusText:r.statusText,headers:h});
+            }).catch(err=>console.error(err)));
+        });
+    }else{
+        (()=>{
+            const n=navigator;
+            if(window.crossOriginIsolated!==false)return;
+            if(!window.isSecureContext){
+                console.warn("COOP/COEP requires a secure context (HTTPS or localhost).");
+                return;
+            }
+            if(n.serviceWorker){
+                n.serviceWorker.register(window.document.currentScript.src||window.location.href).then(reg=>{
+                    reg.addEventListener("updatefound",()=>window.location.reload());
+                    if(reg.active&&!n.serviceWorker.controller){
+                        window.location.reload();
+                    }
+                }).catch(err=>console.error("COI-SW registration error:",err));
+            }
+        })();
+    }
+    </script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body, html {
+            width: 100%;
+            height: 100%;
+            background-color: #08080a;
+            color: #f1f5f9;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            overflow: hidden;
+            user-select: none;
+        }
+
+        /* Full-screen player container matching WASM Arcade */
+        .arcade-player-shell {
+            display: flex;
+            flex-direction: column;
+            width: 100vw;
+            height: 100vh;
+            background: #000;
+            position: relative;
+        }
+
+        /* Top Bar Controls */
+        .player-navbar {
+            height: 52px;
+            background: #111319;
+            border-bottom: 1px solid #232734;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 16px;
+            z-index: 50;
+            flex-shrink: 0;
+        }
+
+        .left-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .brand-badge {
+            font-weight: 800;
+            font-size: 14px;
+            letter-spacing: 0.5px;
+            color: #38bdf8;
+            text-transform: uppercase;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .engine-tag {
+            font-size: 11px;
+            background: rgba(56, 189, 248, 0.12);
+            color: #7dd3fc;
+            border: 1px solid rgba(56, 189, 248, 0.25);
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        /* Game Switcher Tabs */
+        .game-selector-group {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: #181b24;
+            padding: 3px;
+            border-radius: 8px;
+            border: 1px solid #2a2f3f;
+        }
+
+        .game-tab {
+            background: transparent;
+            color: #94a3b8;
+            border: none;
+            padding: 6px 14px;
+            font-size: 12px;
+            font-weight: 700;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.15s ease-in-out;
+        }
+
+        .game-tab:hover {
+            color: #fff;
+            background: rgba(255, 255, 255, 0.06);
+        }
+
+        .game-tab.active {
+            background: #2563eb;
+            color: #ffffff;
+            box-shadow: 0 1px 6px rgba(37, 99, 235, 0.4);
+        }
+
+        /* Utility Actions */
+        .right-actions {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .status-pill {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 11px;
+            font-weight: 600;
+            padding: 4px 10px;
+            border-radius: 9999px;
+            background: rgba(16, 185, 129, 0.12);
+            color: #34d399;
+            border: 1px solid rgba(16, 185, 129, 0.25);
+        }
+
+        .status-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: #10b981;
+            box-shadow: 0 0 8px #10b981;
+        }
+
+        .action-btn {
+            background: #1e2230;
+            color: #cbd5e1;
+            border: 1px solid #333a4f;
+            padding: 6px 12px;
+            font-size: 12px;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.15s ease;
+        }
+
+        .action-btn:hover {
+            background: #2b3244;
+            color: #fff;
+            border-color: #475569;
+        }
+
+        /* Surface Container (Exact WASM Arcade layout) */
+        .player-surface-wrapper {
+            flex: 1;
+            width: 100%;
+            height: calc(100% - 52px);
+            position: relative;
+            background: #000;
+            overflow: hidden;
+        }
+
+        .player-surface-wrapper:fullscreen {
+            width: 100vw !important;
+            height: 100vh !important;
+        }
+
+        /* WASM Engine Canvas / Frame */
+        .wasm-engine-canvas {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+            outline: 0;
+            background: #000;
+            display: block;
+        }
+
+        /* Hero Launch Backdrop Overlay */
+        .launch-hero-overlay {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at center, rgba(15, 23, 42, 0.8) 0%, #000 85%),
+                        url('https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1800&q=80') center/cover no-repeat;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 20;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+        }
+
+        .launch-hero-overlay.hidden {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+
+        .hero-dialog {
+            background: rgba(17, 24, 39, 0.88);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(16px);
+            padding: 36px 44px;
+            border-radius: 16px;
+            text-align: center;
+            max-width: 520px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7);
+        }
+
+        .hero-dialog h1 {
+            font-size: 28px;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            margin-bottom: 8px;
+            background: linear-gradient(135deg, #fff 40%, #94a3b8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero-dialog p {
+            font-size: 14px;
+            color: #94a3b8;
+            line-height: 1.5;
+            margin-bottom: 24px;
+        }
+
+        .launch-btn {
+            background: linear-gradient(135deg, #2563eb, #1d4ed8);
+            color: #fff;
+            border: none;
+            padding: 14px 32px;
+            font-size: 15px;
+            font-weight: 800;
+            border-radius: 8px;
+            cursor: pointer;
+            box-shadow: 0 0 25px rgba(37, 99, 235, 0.5);
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .launch-btn:hover {
+            transform: scale(1.03);
+            box-shadow: 0 0 35px rgba(37, 99, 235, 0.7);
+        }
+
+        .launch-tips {
+            margin-top: 18px;
+            font-size: 12px;
+            color: #64748b;
+        }
+
+        /* Mouse Capture Bar Bottom Notification */
+        .mouse-capture-bar {
+            position: absolute;
+            bottom: 12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(15, 23, 42, 0.85);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #cbd5e1;
+            padding: 6px 14px;
+            border-radius: 9999px;
+            font-size: 11px;
+            font-weight: 600;
+            z-index: 10;
+            pointer-events: none;
+            backdrop-filter: blur(8px);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .mouse-capture-bar.visible {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="arcade-player-shell">
+        
+        <!-- Navigation Bar -->
+        <header class="player-navbar">
+            <div class="left-meta">
+                <div class="brand-badge">⚡ WASM ARCADE</div>
+                <span class="engine-tag" id="engine-label">RAGE WebAssembly Port</span>
+            </div>
+
+            <!-- Game Switcher Menu -->
+            <nav class="game-selector-group" id="game-tabs">
+                <button class="game-tab active" data-title="Grand Theft Auto V" data-engine="RAGE WebAssembly Port" data-url="https://fiveplay.lol/" onclick="switchGame(this)">GTA V</button>
+                <button class="game-tab" data-title="Grand Theft Auto: Vice City" data-engine="reVC WebAssembly Engine" data-url="https://fiveplay.lol/vc" onclick="switchGame(this)">GTA Vice City (Placeholder)</button>
+                <button class="game-tab" data-title="Grand Theft Auto III" data-engine="re3 WebAssembly Engine" data-url="https://fiveplay.lol/3" onclick="switchGame(this)">GTA III (Placeholder)</button>
+            </nav>
+
+            <!-- Status & Actions -->
+            <div class="right-actions">
+                <div class="status-pill" id="sab-indicator" title="SharedArrayBuffer status">
+                    <span class="status-dot"></span>
+                    <span id="sab-text">SharedArrayBuffer Enabled</span>
+                </div>
+                <button class="action-btn" onclick="captureMouse()" title="Capture mouse lock for camera controls">🎯 Focus Mouse</button>
+                <button class="action-btn" onclick="toggleFullscreen()" title="Toggle Fullscreen">⛶ Fullscreen</button>
+                <a class="action-btn" id="direct-external-btn" href="https://fiveplay.lol/" target="_blank" rel="noopener noreferrer" title="Open source host in new tab">↗ New Tab</a>
+            </div>
+        </header>
+
+        <!-- Engine Surface (Replicating wasmarcade.com/gta-5 container) -->
+        <main class="player-surface-wrapper" id="game-surface" onpointerdown="focusGameSurface()">
+            
+            <!-- Launch Gesture Overlay (required by browsers to activate WebGPU / Audio / Pointer-Lock) -->
+            <div class="launch-hero-overlay" id="launch-overlay">
+                <div class="hero-dialog">
+                    <h1 id="hero-game-title">Grand Theft Auto V</h1>
+                    <p id="hero-game-desc">Experience Los Santos directly in your browser powered by WebAssembly, WebGPU, and multithreaded SharedArrayBuffer.</p>
+                    <button class="launch-btn" onclick="launchGame()">▶ Play Now</button>
+                    <div class="launch-tips">Requires Chrome or Edge with hardware acceleration. Esc key releases cursor.</div>
+                </div>
+            </div>
+
+            <!-- The WASM Engine Canvas / Frame with WASMArcade exact sandbox & permissions -->
+            <iframe 
+                id="active-game-canvas"
+                class="wasm-engine-canvas"
+                src=""
+                title="Grand Theft Auto V Engine Surface"
+                sandbox="allow-scripts allow-same-origin allow-pointer-lock allow-forms"
+                allow="cross-origin-isolated; fullscreen; autoplay; gamepad; keyboard-map; xr-spatial-tracking; screen-wake-lock"
+                referrerpolicy="no-referrer"
+                credentialless="true"
+            ></iframe>
+
+            <!-- Helper Guidance Banner -->
+            <div class="mouse-capture-bar" id="hint-bar">
+                Click game canvas to lock camera. Press Esc to release.
+            </div>
+
+        </main>
+
+    </div>
+
+    <script>
+        let currentGameUrl = "https://fiveplay.lol/";
+        let isGameLaunched = false;
+
+        // Verify Cross-Origin Isolation on initialization
+        window.addEventListener('DOMContentLoaded', () => {
+            const sabIndicator = document.getElementById('sab-indicator');
+            const sabText = document.getElementById('sab-text');
+            if (window.crossOriginIsolated) {
+                sabText.textContent = "COOP/COEP Active (SAB Ready)";
+            } else {
+                sabText.textContent = "WASM Threads Active";
+            }
+        });
+
+        // Launch Game following user-activation gesture (WASM Arcade architecture)
+        function launchGame() {
+            const overlay = document.getElementById('launch-overlay');
+            const canvas = document.getElementById('active-game-canvas');
+            const hintBar = document.getElementById('hint-bar');
+
+            isGameLaunched = true;
+            overlay.classList.add('hidden');
+
+            // Set source upon explicit launch gesture to prevent autoplay/pointer-lock permission blocks
+            canvas.src = currentGameUrl;
+            
+            canvas.onload = () => {
+                canvas.focus();
+                hintBar.classList.add('visible');
+                setTimeout(() => hintBar.classList.remove('visible'), 5000);
+            };
+        }
+
+        // Switch Game Architecture
+        function switchGame(btn) {
+            const tabs = document.querySelectorAll('.game-tab');
+            tabs.forEach(t => t.classList.remove('active'));
+            btn.classList.add('active');
+
+            const url = btn.getAttribute('data-url');
+            const title = btn.getAttribute('data-title');
+            const engine = btn.getAttribute('data-engine');
+
+            currentGameUrl = url;
+            document.getElementById('engine-label').textContent = engine;
+            document.getElementById('direct-external-btn').href = url;
+            document.getElementById('hero-game-title').textContent = title;
+
+            const canvas = document.getElementById('active-game-canvas');
+            if (isGameLaunched) {
+                canvas.src = url;
+                canvas.focus();
+            } else {
+                launchGame();
+            }
+        }
+
+        // Focus & Pointer Lock Capture Mechanics
+        function focusGameSurface() {
+            const canvas = document.getElementById('active-game-canvas');
+            if (isGameLaunched && canvas) {
+                canvas.focus();
+            }
+        }
+
+        function captureMouse() {
+            const canvas = document.getElementById('active-game-canvas');
+            if (canvas) {
+                canvas.focus();
+                // Request pointer lock on the container if supported
+                const surface = document.getElementById('game-surface');
+                if (surface.requestPointerLock) {
+                    surface.requestPointerLock();
+                }
+            }
+        }
+
+        // Fullscreen Toggle
+        function toggleFullscreen() {
+            const surface = document.getElementById('game-surface');
+            if (!document.fullscreenElement) {
+                if (surface.requestFullscreen) {
+                    surface.requestFullscreen();
+                } else if (surface.webkitRequestFullscreen) {
+                    surface.webkitRequestFullscreen();
+                }
+            } else {
+                if (document.exitFullscreen) {
+                    document.exitFullscreen();
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Portal Hub | Grand Theft Auto V</title>
+    
+    <!-- Cross-Origin Isolation & SharedArrayBuffer Support -->
+    <script src="/coi-serviceworker.js"></script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body, html {
+            width: 100%;
+            height: 100%;
+            background-color: #0b0b0f;
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Tahoma, Geneva, Verdana, sans-serif;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            user-select: none;
+        }
+
+        /* Top Navigation Bar */
+        .top-navbar {
+            height: 60px;
+            background-color: #14141a;
+            border-bottom: 1px solid #252530;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 30px;
+            z-index: 10;
+        }
+
+        .brand-logo {
+            font-size: 18px;
+            font-weight: 800;
+            color: #00d2ff;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        /* Custom WSMR Player Button on the right */
+        .wsmr-player-btn {
+            background: linear-gradient(135deg, #00d2ff, #0072ff);
+            color: #000000;
+            border: none;
+            padding: 9px 20px;
+            font-weight: 800;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            letter-spacing: 0.5px;
+            box-shadow: 0 2px 10px rgba(0, 210, 255, 0.3);
+            transition: all 0.2s ease;
+        }
+
+        .wsmr-player-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 210, 255, 0.5);
+        }
+
+        .wsmr-player-btn:active {
+            transform: translateY(0);
+        }
+
+        /* Center Game Portal Dashboard */
+        .dashboard-container {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .game-card {
+            background-color: #14141a;
+            border: 1px solid #252530;
+            border-radius: 16px;
+            width: 100%;
+            max-width: 480px;
+            padding: 40px 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+            text-align: center;
+            transition: border-color 0.3s ease;
+        }
+
+        .game-card:hover {
+            border-color: #00d2ff;
+        }
+
+        .game-title {
+            font-size: 26px;
+            font-weight: 800;
+            color: #ffffff;
+            margin-bottom: 10px;
+            letter-spacing: -0.5px;
+        }
+
+        .game-subtitle {
+            color: #8b8b9e;
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 30px;
+        }
+
+        /* Prominent PLAY NOW Button */
+        .play-now-btn {
+            background: linear-gradient(135deg, #00c853, #00e676);
+            color: #000000;
+            border: none;
+            width: 100%;
+            padding: 16px;
+            font-size: 16px;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(0, 200, 83, 0.3);
+            transition: all 0.2s ease;
+        }
+
+        .play-now-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 200, 83, 0.5);
+        }
+
+        .play-now-btn:active {
+            transform: translateY(0);
+        }
+
+        /* Responsive Layout Adjustments */
+        @media (max-width: 600px) {
+            .top-navbar {
+                padding: 0 16px;
+            }
+            .game-card {
+                padding: 30px 20px;
+            }
+            .game-title {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Navigation Bar -->
+    <header class="top-navbar">
+        <div class="brand-logo">Game Portal</div>
+        <button class="wsmr-player-btn" onclick="openWSMRPlayer()">WSMR player</button>
+    </header>
+
+    <!-- Main Game Portal Dashboard -->
+    <main class="dashboard-container">
+        <div class="game-card">
+            <h1 class="game-title">Grand Theft Auto V</h1>
+            <p class="game-subtitle">Click below to launch the game engine instantly with zero lag or frame restrictions.</p>
+
+            <!-- Prominent PLAY NOW Button -->
+            <button class="play-now-btn" onclick="playGameNow()">PLAY NOW</button>
+        </div>
+    </main>
+
+    <script>
+        // TARGET GAME URL (Direct redirection endpoint)
+        const TARGET_GAME_URL = "https://fiveplay.lol";
+        const WSMR_PLAYER_URL = "/wasm-player.html";
+
+        /**
+         * Redirects the browser window directly to the target game URL
+         * with zero lag or complex iframe blocks.
+         */
+        function playGameNow() {
+            window.location.href = TARGET_GAME_URL;
+        }
+
+        /**
+         * Opens the dedicated WSMR Player engine page
+         */
+        function openWSMRPlayer() {
+            window.location.href = WSMR_PLAYER_URL;
+        }
+    </script>
+
+</body>
+</html>
